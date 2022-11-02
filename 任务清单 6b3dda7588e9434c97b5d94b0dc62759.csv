@@ -1,0 +1,22 @@
+﻿Name,Date Created,Property,Property 1,Status,URL
+GAMES101,"July 21, 2021 9:56 AM",,,Doing,
+Algorithm,"July 21, 2021 5:12 PM",,,Doing,
+"101 几何
+环境贴图（记录环境光）
+
+CubeMap
+凹凸贴图/法线贴图 VS 位置贴图
+
+隐式几何（容易判断一个点在不在几何里，不容易判断是什么形状）
+
+显式几何（不好判断一个点在不在几何里，通过参数映射容易判断是什么形状）
+
+贝塞尔曲线
+
+
+顶点细分
+Loop细分
+
+Shadow Mapping
+
+","August 21, 2022 10:22 PM",,,,

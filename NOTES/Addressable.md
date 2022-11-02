@@ -1,0 +1,1 @@
+[如何利用Addressable和CCD服务快速构建游戏资源更新系统，一篇讲明白 - 技术专栏 - Unity官方开发者社区](https://unity.cn/projects/addressable-and-cloud-content-delivery?_ga=2.143965756.861594155.1629081682-2049639410.1602584092)
