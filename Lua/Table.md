@@ -2,7 +2,7 @@
 
 typedef struct Table {
 
-  CommonHeader;
+  CommonHeader;[^1]
 
   lu_byte flags;  /* 1<<p means tagmethod(p) is not present */
 
@@ -23,3 +23,4 @@ typedef struct Table {
 } Table;
 ```
 
+[^1]asdasd
