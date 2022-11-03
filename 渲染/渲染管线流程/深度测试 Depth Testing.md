@@ -6,7 +6,7 @@
 
 深度缓冲中的值在屏幕空间中不是线性，z值越小，精度越大。
 
-![Untitled](NOTES/渲染/渲染管线流程/深度测试%20Depth%20Testing/Untitled.png)
+![Untitled](渲染/渲染管线流程/深度测试%20Depth%20Testing/Untitled.png)
 
 ## 深度冲突
 

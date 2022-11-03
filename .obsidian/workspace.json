@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e417f1bf1b001bab",
+        "id": "34e511701d01fbfe",
         "type": "tabs",
         "children": [
           {
-            "id": "6eeaef559d22d4ba",
+            "id": "6d50dc7300c68680",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTES/优化.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NOTES/优化.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -137,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6eeaef559d22d4ba",
+  "active": "9d64ee64e0a0927c",
   "lastOpenFiles": [
+    "优化.md",
     "学习网址.md",
     "阅读清单.md",
     "WIKI.md",
     "Test/test.md",
-    "NOTES/Lua程序设计（第四版）/20 元表和元方法.md",
-    "NOTES/Lua程序设计（第四版）/17 模块与包.md",
-    "NOTES/深入了解计算机系统/第二章 信息的表示与处理.md",
-    "NOTES/深入了解计算机系统/第一章 系统漫游.md",
-    "NOTES/深入了解计算机系统/第三章 程序的机器级表示.md",
-    "NOTES/Lua程序设计（第四版）/16 编译、执行和错误.md"
+    "Lua程序设计（第四版）/20 元表和元方法.md",
+    "Lua程序设计（第四版）/17 模块与包.md",
+    "深入了解计算机系统/第二章 信息的表示与处理.md",
+    "深入了解计算机系统/第一章 系统漫游.md",
+    "深入了解计算机系统/第三章 程序的机器级表示.md"
   ]
 }

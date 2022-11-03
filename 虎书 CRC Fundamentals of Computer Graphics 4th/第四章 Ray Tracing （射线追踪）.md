@@ -10,7 +10,7 @@
 
 ### 射线与平面相交的公式
 
-![Untitled](NOTES/虎书%20CRC%20Fundamentals%20of%20Computer%20Graphics%204th/第四章%20Ray%20Tracing%20（射线追踪）/Untitled.png)
+![Untitled](虎书%20CRC%20Fundamentals%20of%20Computer%20Graphics%204th/第四章%20Ray%20Tracing%20（射线追踪）/Untitled.png)
 
 $$
 p(t) = e + t(s - e)
@@ -40,15 +40,15 @@ $$
 
 $$
 
-![Untitled](NOTES/虎书%20CRC%20Fundamentals%20of%20Computer%20Graphics%204th/第四章%20Ray%20Tracing%20（射线追踪）/Untitled%201.png)
+![Untitled](虎书%20CRC%20Fundamentals%20of%20Computer%20Graphics%204th/第四章%20Ray%20Tracing%20（射线追踪）/Untitled%201.png)
 
 最后都是求判别式B^2 − 4AC，大于0有两个交点，等于0有一个交点，小于0则没有交点。
 
 ## 4.4.2 Ray-Triangle Intersection
 
-![Untitled](NOTES/虎书%20CRC%20Fundamentals%20of%20Computer%20Graphics%204th/第四章%20Ray%20Tracing%20（射线追踪）/Untitled%202.png)
+![Untitled](虎书%20CRC%20Fundamentals%20of%20Computer%20Graphics%204th/第四章%20Ray%20Tracing%20（射线追踪）/Untitled%202.png)
 
-![Untitled](NOTES/虎书%20CRC%20Fundamentals%20of%20Computer%20Graphics%204th/第四章%20Ray%20Tracing%20（射线追踪）/Untitled%203.png)
+![Untitled](虎书%20CRC%20Fundamentals%20of%20Computer%20Graphics%204th/第四章%20Ray%20Tracing%20（射线追踪）/Untitled%203.png)
 
 射线与三角形的交点
 

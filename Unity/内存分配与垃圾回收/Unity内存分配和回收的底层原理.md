@@ -22,7 +22,7 @@ Unity有十几种分配器，不同分配策略对应不同的分配器
 
 ## Managed Memory
 
-![Unity%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%92%8C%E5%9B%9E%E6%94%B6%E7%9A%84%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%2089ec857861fa40378579fdffd8c2cc98/Untitled.png](NOTES/Unity/内存分配与垃圾回收/Untitled.png)
+![Unity%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%92%8C%E5%9B%9E%E6%94%B6%E7%9A%84%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%2089ec857861fa40378579fdffd8c2cc98/Untitled.png](Unity/内存分配与垃圾回收/Untitled.png)
 
 蓝色代表预留的内存，绿色代表已使用内存
 
