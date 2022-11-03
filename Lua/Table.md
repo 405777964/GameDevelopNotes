@@ -2,7 +2,7 @@
 
 typedef struct Table {
 
-  CommonHeader;[^1]
+  CommonHeader;
 
   lu_byte flags;  /* 1<<p means tagmethod(p) is not present */
 
@@ -21,6 +21,12 @@ typedef struct Table {
   GCObject *gclist;
 
 } Table;
+
+/*
+** Common Header for all collectable objects (in macro form, to be
+** included in other objects)
+*/
+#define CommonHeader  struct GCObject *next; lu_byte tt; lu_byte marked
 ```
 
-[^1]:     asdasd
+
