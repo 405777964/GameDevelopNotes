@@ -11,8 +11,12 @@
             "id": "6d50dc7300c68680",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "阅读清单.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "阅读清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "阅读清单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "阅读清单.md"
+              }
             }
           }
         ],
@@ -129,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d64ee64e0a0927c",
+  "active": "6d50dc7300c68680",
   "lastOpenFiles": [
     "优化.md",
     "学习网址.md",
-    "阅读清单.md",
+    "虎书 CRC Fundamentals of Computer Graphics 4th/第四章 Ray Tracing （射线追踪）/Untitled 4.png",
+    "虎书 CRC Fundamentals of Computer Graphics 4th/第四章 Ray Tracing （射线追踪）/Untitled 3.png",
+    "虎书 CRC Fundamentals of Computer Graphics 4th/第四章 Ray Tracing （射线追踪）/Untitled 2.png",
+    "虎书 CRC Fundamentals of Computer Graphics 4th/第四章 Ray Tracing （射线追踪）/Untitled 1.png",
+    "虎书 CRC Fundamentals of Computer Graphics 4th/第四章 Ray Tracing （射线追踪）/Untitled.png",
     "WIKI.md",
-    "Test/test.md",
-    "Lua程序设计（第四版）/20 元表和元方法.md",
-    "Lua程序设计（第四版）/17 模块与包.md",
-    "深入了解计算机系统/第二章 信息的表示与处理.md",
-    "深入了解计算机系统/第一章 系统漫游.md",
-    "深入了解计算机系统/第三章 程序的机器级表示.md"
+    "Addressable.md",
+    "阅读清单.md"
   ]
 }
