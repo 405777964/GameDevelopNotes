@@ -1,4 +1,6 @@
-``typedef struct Table {
+```lua
+
+typedef struct Table {
 
   CommonHeader;
 
@@ -18,5 +20,6 @@
 
   GCObject *gclist;
 
-} Table;``
+} Table;
+```
 
