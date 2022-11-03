@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读清单.md",
+                "file": "渲染/动态批处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读清单.md",
+                "file": "渲染/动态批处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读清单.md",
+                "file": "渲染/动态批处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读清单.md"
+                "file": "渲染/动态批处理.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "6d50dc7300c68680",
   "lastOpenFiles": [
+    "渲染/静态批处理.md",
+    "渲染/动态批处理/动态批处理流程图.png",
+    "渲染/静态批处理/静态批处理流程图.png",
+    "渲染/静态批处理/静态批处理原理.png",
+    "WIKI.md",
+    "阅读清单.md",
+    "Addressable.md",
     "优化.md",
     "学习网址.md",
-    "虎书 CRC Fundamentals of Computer Graphics 4th/第四章 Ray Tracing （射线追踪）/Untitled 4.png",
-    "虎书 CRC Fundamentals of Computer Graphics 4th/第四章 Ray Tracing （射线追踪）/Untitled 3.png",
-    "虎书 CRC Fundamentals of Computer Graphics 4th/第四章 Ray Tracing （射线追踪）/Untitled 2.png",
-    "虎书 CRC Fundamentals of Computer Graphics 4th/第四章 Ray Tracing （射线追踪）/Untitled 1.png",
-    "虎书 CRC Fundamentals of Computer Graphics 4th/第四章 Ray Tracing （射线追踪）/Untitled.png",
-    "WIKI.md",
-    "Addressable.md",
-    "阅读清单.md"
+    "排序算法.md"
   ]
 }
