@@ -1,8 +1,9 @@
+asdasdad[^1]
 ```lua
 
 typedef struct Table {
 
-  CommonHeader;[^1]
+  CommonHeader;
 
   lu_byte flags;  /* 1<<p means tagmethod(p) is not present */
 
