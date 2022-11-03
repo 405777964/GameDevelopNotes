@@ -23,4 +23,4 @@ typedef struct Table {
 } Table;
 ```
 
-[^1]asdasd
+[^1]:     asdasd
