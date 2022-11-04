@@ -1,0 +1,1 @@
+在Lua中字符串实际上是被内化（internalization）的一种数据
