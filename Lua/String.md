@@ -1,1 +1,1 @@
-在Lua中字符串实际上是被内化（internalization）的一种数据
+在Lua中字符串实际上是被==内化==（internalization）的一种数据。即每个存Lua字符串的变量，存的不是实际的
