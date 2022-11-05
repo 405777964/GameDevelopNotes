@@ -49,4 +49,4 @@ typedef struct Table {
 当找不到对应的key时会调用newkey方法分配一个新的key来返回。
 
 以上操作涉及对表空间的重新分配（remash）
-1. 分配一个位图nums，蒋
+1. 分配一个位图nums，将它所有位置设为0。该位图的意义是：nums数组中第i个元素存放的是
