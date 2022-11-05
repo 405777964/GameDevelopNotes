@@ -47,3 +47,5 @@ typedef struct Table {
 
 散列表部分的数组组织是，先计算key所在的散列桶位置，这个位置称为mainposition，该散列桶以链表的形式组织。
 当找不到对应的key时会调用newkey方法分配一个新的key来返回。
+
+以上操作涉及dui
