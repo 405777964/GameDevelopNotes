@@ -10,9 +10,9 @@ typedef struct Table {
 
   unsigned int alimit;  /* "limit" of 'array' array */
 
-  TValue *array;  /* array part */
+  TValue *array;  /* array part 存放数组类型*/
 
-  Node *node;
+  Node *node;    /* 存放散列表类型*
 
   Node *lastfree;  /* any free position is before this position */
 
