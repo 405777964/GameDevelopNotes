@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Table.md",
+                "file": "Lua/String.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/Table.md",
+                "file": "Lua/String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Table.md",
+                "file": "Lua/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/Table.md"
+                "file": "Lua/String.md"
               }
             }
           }
@@ -152,8 +152,8 @@
   },
   "active": "21f2397aed93d63a",
   "lastOpenFiles": [
-    "Lua/String.md",
     "Lua/Table.md",
+    "Lua/String.md",
     "Lua/14 数据结构.md",
     "渲染/动态批处理.md",
     "渲染/静态批处理.md",
