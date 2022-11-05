@@ -72,3 +72,4 @@ for i=1,3 do
 	a[i] = true
 end
 ```
+该代码执行了三次重新散列。有点类似List表
