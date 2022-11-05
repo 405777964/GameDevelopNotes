@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/模块与包.md",
+                "file": "Lua/Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/模块与包.md",
+                "file": "Lua/Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/模块与包.md",
+                "file": "Lua/Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/模块与包.md"
+                "file": "Lua/Table.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "21f2397aed93d63a",
   "lastOpenFiles": [
-    "Lua/String.md",
     "Lua/元表和元方法.md",
     "Lua/数据结构.md",
+    "Lua/模块与包.md",
+    "Lua/String.md",
     "Lua/Table.md",
     "渲染/动态批处理.md",
     "渲染/静态批处理.md",
     "渲染/动态批处理/动态批处理流程图.png",
     "渲染/静态批处理/静态批处理流程图.png",
-    "渲染/静态批处理/静态批处理原理.png",
-    "WIKI.md"
+    "渲染/静态批处理/静态批处理原理.png"
   ]
 }
