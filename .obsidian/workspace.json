@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/元表和元方法.md",
+                "file": "Lua/模块与包.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/元表和元方法.md",
+                "file": "Lua/模块与包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/元表和元方法.md",
+                "file": "Lua/模块与包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/元表和元方法.md"
+                "file": "Lua/模块与包.md"
               }
             }
           }
@@ -154,8 +154,8 @@
   "lastOpenFiles": [
     "Lua/String.md",
     "Lua/元表和元方法.md",
+    "Lua/数据结构.md",
     "Lua/Table.md",
-    "Lua/14 数据结构.md",
     "渲染/动态批处理.md",
     "渲染/静态批处理.md",
     "渲染/动态批处理/动态批处理流程图.png",
