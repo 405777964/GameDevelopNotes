@@ -42,3 +42,5 @@ typedef struct Table {
 ```
 
 ## 新增元素
+
+<p>疑问 ： 新增元素是不是先在数组里找是否有对应的key
