@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5075454711914
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8fea21ba2188e4b3",
@@ -150,7 +151,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3fb576b04b5cb452",
+  "active": "9d64ee64e0a0927c",
   "lastOpenFiles": [
     "Lua/Lua Table.md",
     "Lua/Lua WIKI.md",
