@@ -11,11 +11,11 @@ typedef struct Proto {
 
   CommonHeader;
 
-  lu_byte numparams;  /* number of fixed (named) parameters */
+  lu_byte numparams;  /* number of fixed (named) parameters 固定参数的数量*/
 
-  lu_byte is_vararg;
+  lu_byte is_vararg;  /*是否有可变参数*/
 
-  lu_byte maxstacksize;  /* number of registers needed by this function */
+  lu_byte maxstacksize;  /* number of registers needed by this function 该函数需要的栈大小*/
 
   int sizeupvalues;  /* size of 'upvalues' */
 
