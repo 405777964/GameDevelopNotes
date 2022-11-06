@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Lua WIKI.md",
+                "file": "Lua/Lua Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/Lua WIKI.md",
+                "file": "Lua/Lua Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua WIKI.md",
+                "file": "Lua/Lua Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/Lua WIKI.md"
+                "file": "Lua/Lua Table.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "9701f319f5870167",
   "lastOpenFiles": [
-    "渲染/动态批处理.md",
+    "Lua/Lua WIKI.md",
     "Lua/Lua Table.md",
+    "渲染/动态批处理.md",
     "Lua/Lua虚拟机 （nil）.md",
     "Lua/Lua 元表和元方法.md",
     "Lua/数据结构.md",
     "Lua/模块与包.md",
     "Lua/16 编译、执行和错误.md",
     "Lua/Lua String.md",
-    "Lua/Lua GC.md",
-    "WIKI.md"
+    "Lua/Lua GC.md"
   ]
 }
