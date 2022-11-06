@@ -17,13 +17,13 @@ typedef struct Proto {
 
   lu_byte maxstacksize;  /* number of registers needed by this function 该函数需要的栈大小*/
 
-  int sizeupvalues;  /* size of 'upvalues' */
+  int sizeupvalues;  /* size of 'upvalues' upvalues数量*/
 
-  int sizek;  /* size of 'k' */
+  int sizek;  /* size of 'k' * 常量数量*/
 
-  int sizecode;
+  int sizecode;   /*指令数量*/
 
-  int sizelineinfo;
+  int sizelineinfo;   /*信息数量*/
 
   int sizep;  /* size of 'p' */
 
