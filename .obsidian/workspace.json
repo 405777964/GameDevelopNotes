@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fb576b04b5cb452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lua/Lua 闭包（UpValue）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/Lua Table.md",
+                "file": "Lua/Lua 闭包（UpValue）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua Table.md",
+                "file": "Lua/Lua 闭包（UpValue）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/Lua Table.md"
+                "file": "Lua/Lua 闭包（UpValue）.md"
               }
             }
           }
@@ -137,10 +150,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9701f319f5870167",
+  "active": "3fb576b04b5cb452",
   "lastOpenFiles": [
-    "Lua/Lua WIKI.md",
     "Lua/Lua Table.md",
+    "Lua/Lua WIKI.md",
     "渲染/动态批处理.md",
     "Lua/Lua虚拟机 （nil）.md",
     "Lua/Lua 元表和元方法.md",
