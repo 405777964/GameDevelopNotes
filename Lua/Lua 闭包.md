@@ -31,9 +31,9 @@ typedef struct Proto {
 
   int sizeabslineinfo;  /* size of 'abslineinfo' */
 
-  int linedefined;  /* debug information  */
+  int linedefined;  /* debug information  函数进入的行*/
 
-  int lastlinedefined;  /* debug information  */
+  int lastlinedefined;  /* debug information  函数返回的行*/
 
   TValue *k;  /* constants used by the function */
 
