@@ -27,7 +27,7 @@ typedef struct Proto {
 
   int sizep;  /* size of 'p' 内嵌原型数量*/
 
-  int sizelocvars; 
+  int sizelocvars;   /*本地变量的数量*/
 
   int sizeabslineinfo;  /* size of 'abslineinfo' */
 
