@@ -39,9 +39,9 @@ typedef struct Proto {
 
   Instruction *code;  /* opcodes 指令数组*/
 
-  struct Proto **p;  /* functions defined inside the function 内嵌*/
+  struct Proto **p;  /* functions defined inside the function 内嵌函数原型*/
 
-  Upvaldesc *upvalues;  /* upvalue information */
+  Upvaldesc *upvalues;  /* upvalue information UpVulue信息*/
 
   ls_byte *lineinfo;  /* information about source lines (debug information) */
 
