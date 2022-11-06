@@ -35,11 +35,11 @@ typedef struct Proto {
 
   int lastlinedefined;  /* debug information  函数返回的行*/
 
-  TValue *k;  /* constants used by the function */
+  TValue *k;  /* constants used by the function 常量数量*/
 
-  Instruction *code;  /* opcodes */
+  Instruction *code;  /* opcodes 指令数组*/
 
-  struct Proto **p;  /* functions defined inside the function */
+  struct Proto **p;  /* functions defined inside the function 内嵌*/
 
   Upvaldesc *upvalues;  /* upvalue information */
 
