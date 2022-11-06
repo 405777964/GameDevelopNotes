@@ -23,11 +23,11 @@ typedef struct Proto {
 
   int sizecode;   /*指令数量*/
 
-  int sizelineinfo;   /*信息数量*/
+  int sizelineinfo;   /*行信息数量*/
 
-  int sizep;  /* size of 'p' */
+  int sizep;  /* size of 'p' 内嵌原型数量*/
 
-  int sizelocvars;
+  int sizelocvars; 
 
   int sizeabslineinfo;  /* size of 'abslineinfo' */
 
