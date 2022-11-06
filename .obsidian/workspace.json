@@ -47,8 +47,12 @@
             "id": "34960a44a578cf62",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lua/Lua 元表和元方法.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lua/Lua 元表和元方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lua/Lua 元表和元方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lua/Lua 元表和元方法.md"
+              }
             }
           }
         ],
@@ -168,14 +176,14 @@
   },
   "active": "34960a44a578cf62",
   "lastOpenFiles": [
+    "Lua/Lua String.md",
+    "Lua/Lua GC.md",
+    "Lua/Table.md",
     "WIKI.md",
     "优化.md",
     "Addressable.md",
     "阅读清单.md",
     "Lua/未命名.md",
-    "Lua/GC.md",
-    "Lua/Table.md",
-    "Lua/String.md",
     "Lua/Lua虚拟机 （nil）.md",
     "Lua/数据结构.md"
   ]
