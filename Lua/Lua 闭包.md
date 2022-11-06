@@ -59,3 +59,6 @@ typedef struct Proto {
 } Proto;
 
 ```
+
+详细可参考：
+[深入Lua：函数和闭包 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/98917625)
