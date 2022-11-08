@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Lua 闭包.md",
+                "file": "Unity/纹理压缩.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8fea21ba2188e4b3",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/Lua 闭包.md",
+                "file": "Unity/纹理压缩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua 闭包.md",
+                "file": "Unity/纹理压缩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/Lua 闭包.md"
+                "file": "Unity/纹理压缩.md"
               }
             }
           }
@@ -153,6 +152,8 @@
   },
   "active": "3fb576b04b5cb452",
   "lastOpenFiles": [
+    "优化/移动端优化.md",
+    "Lua/Lua 闭包.md",
     "Lua/Lua Table.md",
     "Lua/Lua WIKI.md",
     "渲染/动态批处理.md",
@@ -160,8 +161,6 @@
     "Lua/Lua 元表和元方法.md",
     "Lua/数据结构.md",
     "Lua/模块与包.md",
-    "Lua/16 编译、执行和错误.md",
-    "Lua/Lua String.md",
-    "Lua/Lua GC.md"
+    "Lua/16 编译、执行和错误.md"
   ]
 }
