@@ -11,11 +11,9 @@
             "id": "317fbed9e034272f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Unity/纹理压缩.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20221109003132.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/纹理压缩.md",
+                "file": "Pasted image 20221109003132.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/纹理压缩.md",
+                "file": "Pasted image 20221109003132.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/纹理压缩.md"
+                "file": "Pasted image 20221109003132.png"
               }
             }
           }
@@ -139,15 +137,15 @@
   },
   "active": "317fbed9e034272f",
   "lastOpenFiles": [
-    "Unity/内存分配与垃圾回收.md",
-    "Unity/纹理压缩.md",
-    "优化/移动端优化.md",
-    "Lua/Lua 闭包.md",
-    "Lua/Lua Table.md",
-    "Lua/Lua WIKI.md",
-    "渲染/动态批处理.md",
-    "Lua/Lua虚拟机 （nil）.md",
-    "Lua/Lua 元表和元方法.md",
-    "Lua/数据结构.md"
+    "Pasted image 20221109003751.png",
+    "Pasted image 20221109005007.png",
+    "Pasted image 20221109002205.png",
+    "Pasted image 20221109003132.png",
+    "Addressable.md",
+    "阅读清单.md",
+    "优化.md",
+    "学习网址.md",
+    "排序算法.md",
+    "Unity/纹理压缩.md"
   ]
 }
