@@ -22,4 +22,4 @@ static int l_sin(lua_State *L){
 	return 1;                       /*返回值的个数*/	
 }
 ```
-在Lua中，调用这个函数前，必须通过``lua_pushcfunction``**注册**该函数
+在Lua中，调用这个函数前，必须通过``lua_pushcfunction``**注册**该函数。``lua_pushcfunction``会获得一个指向C函数的指针，然后在Lua中创建一个`"function"`
