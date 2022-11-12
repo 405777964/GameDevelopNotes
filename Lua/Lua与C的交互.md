@@ -27,3 +27,5 @@ static int l_sin(lua_State *L){
 lua_pushcfunction(L, l_sin);    /*压入一个函数类型的值*/
 lua_setglobal(L, "mysin");      /*将这个值赋给全局变量mysin*/
 ```
+
+https://zhuanlan.zhihu.com/p/76250674
