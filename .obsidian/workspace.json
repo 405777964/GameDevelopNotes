@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua 元表和元方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua 元表和元方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua 元表和元方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/Lua GC.md"
+                "file": "Lua/Lua 元表和元方法.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65718910d6505747",
+  "active": "9d64ee64e0a0927c",
   "lastOpenFiles": [
-    "Lua/Lua WIKI.md",
-    "Lua/Lua虚拟机 （nil）.md",
+    "Lua/Lua Table.md",
+    "Lua/Lua String.md",
     "Lua/Lua与C的交互.md",
+    "Lua/Lua虚拟机 （nil）.md",
+    "Lua/Lua GC.md",
+    "Lua/Lua WIKI.md",
     "Lua/16 编译、执行和错误.md",
     "Lua/模块与包.md",
     "Lua/数据结构.md",
-    "Lua/Lua 元表和元方法.md",
-    "Lua/Lua 闭包.md",
-    "Lua/Lua GC.md",
-    "Lua/Lua Table.md"
+    "Lua/Lua 元表和元方法.md"
   ]
 }
