@@ -39,9 +39,13 @@ tm = os.clock()
 for i = 1, 3000 do
 	local a = {} 
 	for i = 1, 10000 do
-	 -- table.insert(a, i) -- tinsert(a, i) a[#a+1] = i end end print(">>>>>>", os.clock() - tm)```
-
-
+		-- table.insert(a, i)
+		-- tinsert(a, i) 
+		a[#a+1] = i 
+	end 
+end 
+print(">>>>>>", os.clock() - tm)
+```
 1.  直接使用table.insert，消耗的时间是：3.032s
 2.  把table.insert保存为一个本地变量再调用，消耗的时间是：2.688s
 3.  直接用a[#a+1] = i 表达式，消耗的时间是：1.994s
