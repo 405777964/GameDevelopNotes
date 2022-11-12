@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "317fbed9e034272f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lua/Lua虚拟机 （nil）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "65718910d6505747",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
