@@ -14,4 +14,4 @@ Lua调用C函数时，也使用了一个与C调用Lua函数时相同类型的栈
 
 所有在Lua中注册的函数都必须使用**一个相同的原型**，该原型是定义在``lua.h``的``lua_CFunction`` 
 ``typedef int (*lua_CFunction) (lua_State *L);``
-这个函数只有一个指向Luazhuang'tai
+这个函数只有一个指向Lua状态类型的指针作为参数，返回值为一个整型数，代表压入栈中的返回值的个数。因此，gai'han
