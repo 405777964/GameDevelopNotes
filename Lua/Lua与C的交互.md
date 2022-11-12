@@ -24,6 +24,6 @@ static int l_sin(lua_State *L){
 ```
 在Lua中，调用这个函数前，必须通过``lua_pushcfunction``**注册**该函数。``lua_pushcfunction``会获得一个指向C函数的指针，然后在Lua中创建一个`"function"`类型，代表**待注册**的函数。一旦完成注册C函数就可以像其他Lua函数一样行事了。
 ```c
-lua_pushcfunction(L, l_sin);
-lua_setglobal(L, "mysin");
+lua_pushcfunction(L, l_sin);    /*压入一个函数类型的值*/
+lua_setglobal(L, "mysin");      /*将这个值赋给全局变量mysin*/
 ```
