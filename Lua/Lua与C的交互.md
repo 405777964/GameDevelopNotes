@@ -18,6 +18,7 @@ Lua调用C函数时，也使用了一个与C调用Lua函数时相同类型的栈
 ```c
 static int l_sin(lua_State *L){
 	double d = lua_tonumber(L,1);   /*获取Lua传过来的参数*/
-	lua_pushnumber	
+	lua_pushnumber(L, sin(d));      /*压入返回值*/
+	return 1;                       /*返回值的个数*/	
 }
 ```
