@@ -32,3 +32,18 @@ https://zhuanlan.zhihu.com/p/76250674
 
 
 ### Tips
+这里使用3种方式向表增加值：
+```lua
+local tinsert = table.insert
+tm = os.clock()
+for i = 1, 3000 do
+	local a = {} 
+	for i = 1, 10000 do
+	 -- table.insert(a, i) -- tinsert(a, i) a[#a+1] = i end end print(">>>>>>", os.clock() - tm)```
+
+
+1.  直接使用table.insert，消耗的时间是：3.032s
+2.  把table.insert保存为一个本地变量再调用，消耗的时间是：2.688s
+3.  直接用a[#a+1] = i 表达式，消耗的时间是：1.994s
+
+直接用Lua语句的效率最高，因为减少了C函数的调用开销；用tinsert次之；第1种最慢，原因是table.insert是先从_ENV取出table，再从table取出insert。
