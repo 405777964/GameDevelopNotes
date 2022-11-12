@@ -50,4 +50,4 @@ print(">>>>>>", os.clock() - tm)
 2.  把table.insert保存为一个本地变量再调用，消耗的时间是：2.688s
 3.  直接用a[#a+1] = i 表达式，消耗的时间是：1.994s
 
-直接用Lua语句的效率最高，因为减少了C函数的调用开销；用tinsert次之；第1种最慢，原因是table.insert是先从_ENV取出table，再从table取出insert。
+直接用Lua语句的效率最高，因为减少了C函数的调用开销；用tinsert次之；第1种最慢，原因是table.insert是**先从_ENV取出table，再从table取出insert**。
