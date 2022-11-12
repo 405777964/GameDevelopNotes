@@ -29,3 +29,6 @@ lua_setglobal(L, "mysin");      /*将这个值赋给全局变量mysin*/
 ```
 
 https://zhuanlan.zhihu.com/p/76250674
+
+
+### Tips
