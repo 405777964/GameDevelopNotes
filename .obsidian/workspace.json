@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/纹理压缩.md",
+                "file": "Unity/内存分配与垃圾回收.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/纹理压缩.md",
+                "file": "Unity/内存分配与垃圾回收.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/纹理压缩.md",
+                "file": "Unity/内存分配与垃圾回收.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/纹理压缩.md"
+                "file": "Unity/内存分配与垃圾回收.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "317fbed9e034272f",
   "lastOpenFiles": [
+    "Unity/纹理压缩.md",
     "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
     "Unity/热更新/AssetBundle.md",
     "OpenGL/Hello Triangle.md",
@@ -147,7 +148,6 @@
     "排序算法.md",
     "学习网址.md",
     "附件/Pasted image 20221109002205.png",
-    "附件/Pasted image 20221109003132.png",
-    "附件/Pasted image 20221109003751.png"
+    "附件/Pasted image 20221109003132.png"
   ]
 }
