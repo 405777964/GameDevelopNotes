@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua与C的交互.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua与C的交互.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua与C的交互.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/Lua GC.md"
+                "file": "Lua/Lua与C的交互.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "65718910d6505747",
   "lastOpenFiles": [
+    "Lua/Lua GC.md",
     "Lua/Lua 元表和元方法.md",
     "Lua/Lua与C的交互.md",
     "Lua/Lua虚拟机 （nil）.md",
@@ -146,7 +147,6 @@
     "Lua/Lua Table.md",
     "Lua/Lua 闭包.md",
     "Lua/Lua String.md",
-    "Lua/Lua GC.md",
     "渲染/渲染管线流程/渲染流程图.png",
     "渲染/渲染管线流程/深度测试 Depth Testing.md"
   ]
