@@ -17,6 +17,7 @@ Lua调用C函数时，也使用了一个与C调用Lua函数时相同类型的栈
 这个函数只有一个指向Lua状态类型的指针作为参数，返回值为一个整型数，代表压入栈中的返回值的个数。因此，该函数在压入结果前无需清空栈。在该函数返回后，Lua会自动保存返回值并清空整个栈。
 ```c
 static int l_sin(lua_State *L){
-	double d = lua_tonumber(L,1);
+	double d = lua_tonumber(L,1);   /*获取Lua传过来的参数*/
+	lua_pushnumber	
 }
 ```
