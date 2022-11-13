@@ -4,7 +4,7 @@
 
 一个模板缓冲中，（通常）每个模板值(Stencil Value)是8位的。所以每个像素/片段一共能有256种不同的模板值。我们可以将这些模板值设置为我们想要的值，然后当某一个片段有某一个模板值的时候，我们就可以选择丢弃或是保留这个片段了。
 
-![Untitled](渲染/渲染管线流程/模板测试%20Stencil%20Testing/Untitled.png)
+![Untitled](附件/渲染附件/模板测试%20Stencil%20Testing/Untitled.png)
 
 模板缓冲步骤
 
@@ -71,7 +71,7 @@ glStencilOp(GLenum sfail, GLenum dpfail, GLenum dppass)一共包含三个选项�
 
 用来实现物体轮廓功能
 
-![Untitled](渲染/渲染管线流程/模板测试%20Stencil%20Testing/Untitled%201.png)
+![Untitled](附件/渲染附件/模板测试%20Stencil%20Testing/Untitled%201.png)
 
 先将物体渲染，并写入模板缓冲。
 

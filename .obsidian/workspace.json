@@ -21,7 +21,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled 1.png"
+                "file": "深入了解计算机系统/第三章 程序的机器级表示/Untitled 2.png"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled 1.png",
+                "file": "深入了解计算机系统/第三章 程序的机器级表示/Untitled 2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled 1.png",
+                "file": "深入了解计算机系统/第三章 程序的机器级表示/Untitled 2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled 1.png"
+                "file": "深入了解计算机系统/第三章 程序的机器级表示/Untitled 2.png"
               }
             }
           }
@@ -144,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d64ee64e0a0927c",
+  "active": "d0853201cadfd004",
   "lastOpenFiles": [
-    "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled.png",
-    "渲染/渲染管线流程/延迟着色法 Deferred Shading/Untitled 1.png",
-    "渲染/渲染管线流程/延迟着色法 Deferred Shading/Untitled.png",
-    "渲染/渲染管线流程/深度测试 Depth Testing/Untitled.png",
-    "渲染/渲染管线流程/模板测试 Stencil Testing/Untitled 1.png",
-    "渲染/渲染管线流程/模板测试 Stencil Testing/Untitled.png",
-    "渲染/阴影映射 Shadow Mapping.md",
-    "渲染/延迟着色法 Deferred Shading.md",
-    "渲染/渲染流程图.png",
-    "渲染/深度测试 Depth Testing.md"
+    "深入了解计算机系统/第三章 程序的机器级表示/Untitled 1.png",
+    "深入了解计算机系统/第三章 程序的机器级表示/Untitled.png",
+    "深入了解计算机系统/第一章 系统漫游/Untitled.png",
+    "深入了解计算机系统/第一章 系统漫游.md",
+    "深入了解计算机系统/第三章 程序的机器级表示.md",
+    "深入了解计算机系统/第二章 信息的表示与处理.md",
+    "附件/Pasted image 20221113182153.png",
+    "附件/Pasted image 20221113182051.png",
+    "附件/渲染附件/阴影映射 Shadow Mapping/Untitled 1.png",
+    "附件/渲染附件/阴影映射 Shadow Mapping/Untitled.png"
   ]
 }
