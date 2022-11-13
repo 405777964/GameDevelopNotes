@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/渲染流程.md",
+                "file": "渲染/渲染管线流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "渲染/渲染流程.md",
+                "file": "渲染/渲染管线流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/渲染流程.md",
+                "file": "渲染/渲染管线流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "渲染/渲染流程.md"
+                "file": "渲染/渲染管线流程.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "d0853201cadfd004",
   "lastOpenFiles": [
+    "渲染/渲染流程.md",
     "渲染/渲染管线流程.md",
     "优化/移动端优化.md",
     "排序算法.md",
@@ -160,7 +161,6 @@
     "Lua/Lua GC.md",
     "Lua/Lua与C的交互.md",
     "渲染/GPU Instancing/Untitled.png",
-    "渲染/GPU Instancing/Untitled 1.png",
-    "渲染/GPU Instancing/Untitled 2.png"
+    "渲染/GPU Instancing/Untitled 1.png"
   ]
 }
