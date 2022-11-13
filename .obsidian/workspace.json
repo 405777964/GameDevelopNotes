@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "排序算法.md",
+                "file": "Unity/纹理压缩.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "排序算法.md",
+                "file": "Unity/纹理压缩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "排序算法.md",
+                "file": "Unity/纹理压缩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "排序算法.md"
+                "file": "Unity/纹理压缩.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "65718910d6505747",
   "lastOpenFiles": [
-    "学习网址.md",
+    "Unity/内存分配与垃圾回收.md",
+    "Unity/纹理压缩.md",
     "排序算法.md",
+    "学习网址.md",
     "渲染/动态批处理.md",
     "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
     "Lua/Lua GC.md",
     "Lua/Lua 闭包.md",
     "Lua/Lua 元表和元方法.md",
-    "Lua/Lua Table.md",
-    "Lua/Lua String.md",
-    "Lua/Lua与C的交互.md"
+    "Lua/Lua Table.md"
   ]
 }
