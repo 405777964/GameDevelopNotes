@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/未命名.md",
+                "file": "C#/C#.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/未命名.md",
+                "file": "C#/C#.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/未命名.md",
+                "file": "C#/C#.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/未命名.md"
+                "file": "C#/C#.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "24ef59e6777f133d",
   "lastOpenFiles": [
+    "C#/C#.md",
     "Lua/模块与包.md",
     "Lua/数据结构.md",
     "Lua/Lua 闭包.md",
@@ -168,7 +169,6 @@
     "Lua/Lua String.md",
     "Lua/Lua GC.md",
     "Lua/16 编译、执行和错误.md",
-    "Addressable.md",
-    "WIKI.md"
+    "Addressable.md"
   ]
 }
