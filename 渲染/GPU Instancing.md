@@ -41,7 +41,7 @@ Unity蒙皮动画工作流程：
 - CPU + SIMD
 <p>CPU动画驱动骨骼->CPU骨骼驱动顶点->变换后的顶点发给GPU渲染</p>
 
-- GPU Skin
+- GPU Skinning
 <p>CPU动画驱动骨骼->GPU上蒙皮->写回主存->变换后的顶点发给GPU渲染</p>
 
 [GPU 实例化 - Unity 手册](http://docs.unity3d.com/cn/current/Manual/GPUInstancing.html)
