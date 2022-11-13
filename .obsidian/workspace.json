@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/动态批处理.md",
+                "file": "渲染/GPU Instancing.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3c9215f9bb470d11",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "渲染/动态批处理/动态批处理流程图.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "渲染/动态批处理/动态批处理流程图.png",
+                "file": "渲染/GPU Instancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/动态批处理/动态批处理流程图.png",
+                "file": "渲染/GPU Instancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "渲染/动态批处理/动态批处理流程图.png"
+                "file": "渲染/GPU Instancing.md"
               }
             }
           }
@@ -148,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c9215f9bb470d11",
+  "active": "65718910d6505747",
   "lastOpenFiles": [
-    "渲染/动态批处理.md",
     "渲染/静态批处理.md",
+    "渲染/GPU Instancing.md",
+    "渲染/动态批处理.md",
+    "渲染/动态批处理/动态批处理流程图.png",
     "渲染/渲染管线流程.md",
     "渲染/渲染管线流程/渲染流程图.png",
     "渲染/渲染管线流程/阴影映射 Shadow Mapping.md",
     "渲染/渲染管线流程/延迟着色法 Deferred Shading.md",
     "渲染/渲染管线流程/深度测试 Depth Testing.md",
-    "渲染/渲染管线流程/延迟着色法 Deferred Shading/Untitled.png",
-    "渲染/渲染管线流程/深度测试 Depth Testing/Untitled.png",
-    "渲染/渲染管线流程/模板测试 Stencil Testing/Untitled 1.png"
+    "渲染/渲染管线流程/延迟着色法 Deferred Shading/Untitled.png"
   ]
 }
