@@ -45,34 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法&数据结构/快速排序.md",
+                "file": "算法&数据结构/二叉树.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1c929efb2b87c7aa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20221113185630.png"
-              }
-            }
-          },
-          {
-            "id": "623e6cda0d483944",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20221113185638.png"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20221113185638.png",
+                "file": "算法&数据结构/二叉树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20221113185638.png",
+                "file": "算法&数据结构/二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20221113185638.png"
+                "file": "算法&数据结构/二叉树.md"
               }
             }
           }
@@ -189,14 +169,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "623e6cda0d483944",
+  "active": "1a1b55f4c699071e",
   "lastOpenFiles": [
-    "Pasted image 20221113185649.png",
-    "Pasted image 20221113185638.png",
-    "Pasted image 20221113185630.png",
-    "算法&数据结构/排序算法.md",
-    "算法&数据结构/二叉树.md",
     "算法&数据结构/快速排序.md",
+    "算法&数据结构/排序算法.md",
+    "附件/算法&数据结构附件/Pasted image 20221113185649.png",
+    "附件/算法&数据结构附件/Pasted image 20221113185638.png",
+    "附件/算法&数据结构附件/Pasted image 20221113185630.png",
+    "算法&数据结构/二叉树.md",
     "C#/C# GC.md",
     "C#/C#.md",
     "Lua/模块与包.md",
