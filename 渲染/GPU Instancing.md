@@ -45,6 +45,6 @@ Unity蒙皮动画工作流程：
 <p>CPU动画驱动骨骼->GPU上蒙皮->写回主存->变换后的顶点发给GPU渲染</p>
 GPU Skining分别两部分
 - 通过离线采样过程，把对应骨骼信息和动画矩阵烘培在一张Texture上。
-- 
+- 通过运行蒙皮过程，通过Shader实时计算顶点坐标。
 
 [GPU 实例化 - Unity 手册](http://docs.unity3d.com/cn/current/Manual/GPUInstancing.html)
