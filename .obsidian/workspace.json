@@ -159,15 +159,15 @@
   },
   "active": "1a1b55f4c699071e",
   "lastOpenFiles": [
+    "渲染/静态批处理/静态批处理原理.png",
+    "渲染/静态批处理/静态批处理流程图.png",
+    "渲染/点乘&叉乘.md",
+    "渲染/深度测试 Depth Testing.md",
+    "渲染/模板测试 Stencil Testing.md",
+    "渲染/动态批处理.md",
     "Lua/模块与包.md",
     "C#/C#.md",
-    "渲染/点乘&叉乘.md",
-    "渲染/动态批处理.md",
     "算法&数据结构/二叉树.md",
-    "渲染/GPU Instancing.md",
-    "附件/Pasted image 20221113182120.png",
-    "附件/Pasted image 20221113182153.png",
-    "算法&数据结构/快速排序.md",
-    "算法&数据结构/排序算法.md"
+    "渲染/GPU Instancing.md"
   ]
 }
