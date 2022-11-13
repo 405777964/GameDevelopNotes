@@ -19,9 +19,11 @@
             "id": "1a1b55f4c699071e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "附件/Pasted image 20221113215151.png"
+                "file": "优化.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/Pasted image 20221113215151.png",
+                "file": "优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/Pasted image 20221113215151.png",
+                "file": "优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/Pasted image 20221113215151.png"
+                "file": "优化.md"
               }
             }
           }
@@ -155,17 +157,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9d64ee64e0a0927c",
+  "active": "1a1b55f4c699071e",
   "lastOpenFiles": [
+    "学习网址.md",
+    "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
+    "Unity/纹理压缩.md",
+    "附件/Pasted image 20221113215151.png",
     "附件/Pasted image 20221113215057.png",
     "附件/Pasted image 20221113215507.png",
-    "附件/Pasted image 20221113215151.png",
     "渲染/静态批处理.md",
     "渲染/动态批处理.md",
     "渲染/点乘&叉乘.md",
-    "渲染/静态批处理/静态批处理原理.png",
-    "渲染/静态批处理/静态批处理流程图.png",
-    "渲染/深度测试 Depth Testing.md",
-    "渲染/模板测试 Stencil Testing.md"
+    "渲染/静态批处理/静态批处理原理.png"
   ]
 }
