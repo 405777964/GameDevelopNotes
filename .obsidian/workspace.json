@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua 闭包.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua 闭包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua 闭包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/Lua GC.md"
+                "file": "Lua/Lua 闭包.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "65718910d6505747",
   "lastOpenFiles": [
+    "Lua/Lua GC.md",
     "Lua/Lua与C的交互.md",
     "渲染/GPU Instancing/Untitled.png",
     "渲染/GPU Instancing/Untitled 1.png",
@@ -147,7 +148,6 @@
     "渲染/渲染管线流程/延迟着色法 Deferred Shading.md",
     "渲染/渲染管线流程/深度测试 Depth Testing.md",
     "渲染/渲染管线流程/模板测试 Stencil Testing.md",
-    "渲染/渲染管线流程/渲染流程图.png",
-    "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled 1.png"
+    "渲染/渲染管线流程/渲染流程图.png"
   ]
 }
