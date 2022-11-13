@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65718910d6505747",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "1a1b55f4c699071e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "优化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bda229a4a29e171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "渲染/点乘&叉乘.md",
+                "file": "C#/C#.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "优化.md",
+                "file": "C#/C#.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "优化.md",
+                "file": "C#/C#.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "优化.md"
+                "file": "C#/C#.md"
               }
             }
           }
@@ -159,15 +138,15 @@
   },
   "active": "1a1b55f4c699071e",
   "lastOpenFiles": [
-    "学习网址.md",
-    "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
-    "Unity/纹理压缩.md",
-    "附件/Pasted image 20221113215151.png",
-    "附件/Pasted image 20221113215057.png",
-    "附件/Pasted image 20221113215507.png",
-    "渲染/静态批处理.md",
-    "渲染/动态批处理.md",
-    "渲染/点乘&叉乘.md",
-    "渲染/静态批处理/静态批处理原理.png"
+    "C#/C# GC.md",
+    "C#/C#.md",
+    "优化/移动端优化.md",
+    "算法&数据结构/快速排序.md",
+    "算法&数据结构/排序算法.md",
+    "算法&数据结构/二叉树.md",
+    "渲染/静态批处理/静态批处理原理.png",
+    "渲染/静态批处理/静态批处理流程图.png",
+    "渲染/动态批处理/动态批处理流程图.png",
+    "优化.md"
   ]
 }
