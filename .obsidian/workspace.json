@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/16 编译、执行和错误.md",
+                "file": "C#/C# GC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/16 编译、执行和错误.md",
+                "file": "C#/C# GC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/16 编译、执行和错误.md",
+                "file": "C#/C# GC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/16 编译、执行和错误.md"
+                "file": "C#/C# GC.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "1a1b55f4c699071e",
   "lastOpenFiles": [
+    "C#/C#.md",
+    "优化/移动端优化.md",
+    "Lua/16 编译、执行和错误.md",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image 1.png",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image.png",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交.md",
     "OpenGL/Hello Triangle.md",
     "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
     "Unity/内存分配与垃圾回收/Untitled.png",
-    "渲染/静态批处理.md",
-    "渲染/深度测试 Depth Testing.md",
-    "渲染/模板测试 Stencil Testing.md",
-    "渲染/渲染流程.md"
+    "渲染/静态批处理.md"
   ]
 }
