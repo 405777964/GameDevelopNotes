@@ -39,7 +39,7 @@ TextMesh Pro（TMP）是Unity现有文本组件（如Text Mesh和UI Text）的�
 
 ### 关键字
 - 动静分离。
-- 填充率导致Overdrall消耗。
+- 填充率导致Overdraw消耗。
 - Canvas绘制UI是从后往前绘制。
 - 隐藏UI会导致Canvas丢失其VBO，重新启用会重新生成和重新批处理。
 - 将UI挪到摄像机看不见的地方，并加上NoCamera的层级。
