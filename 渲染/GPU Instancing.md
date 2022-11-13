@@ -18,6 +18,7 @@ GPU 实例化可以降低每个场景使用的绘制调用数量。可以显著�
 ### 限制
 - Unity 自动选取要实例化的网格渲染器组件和`Graphics.DrawMesh` 调用。请注意，**不支持 `SkinnedMeshRenderer`**。
 - Unity 仅在单个 GPU 实例化绘制调用中批量处理那些共享相同网格和相同材质的游戏对象。**使用少量网格和材质可以提高实例化效率**。要创建变体，请修改着色器脚本为每个实例添加数据
+- 一次最多绘制 1023 个
 - 还可以使用 `Graphics.DrawMeshInstanced` 和`Graphics.DrawMeshInstancedIndirect` 调用来通过脚本执行 GPU 实例化
 
 ### GPU 实例化可在以下平台和 API 上使用：
@@ -48,3 +49,4 @@ GPU Skining分别两部分
 - 通过运行蒙皮过程，通过Shader实时计算顶点坐标。
 
 [GPU 实例化 - Unity 手册](http://docs.unity3d.com/cn/current/Manual/GPUInstancing.html)
+[GPU Skinning](https://www.cnblogs.com/smallrainf/p/11746909.html)
