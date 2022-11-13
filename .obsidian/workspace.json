@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "渲染/静态批处理/静态批处理流程图.png"
+                "file": "渲染/渲染管线流程/模板测试 Stencil Testing/Untitled.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "渲染/静态批处理/静态批处理流程图.png",
+                "file": "渲染/渲染管线流程/模板测试 Stencil Testing/Untitled.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/静态批处理/静态批处理流程图.png",
+                "file": "渲染/渲染管线流程/模板测试 Stencil Testing/Untitled.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "渲染/静态批处理/静态批处理流程图.png"
+                "file": "渲染/渲染管线流程/模板测试 Stencil Testing/Untitled.png"
               }
             }
           }
@@ -138,8 +138,8 @@
   "active": "65718910d6505747",
   "lastOpenFiles": [
     "渲染/动态批处理/动态批处理流程图.png",
-    "渲染/静态批处理/静态批处理流程图.png",
     "渲染/静态批处理/静态批处理原理.png",
+    "渲染/静态批处理/静态批处理流程图.png",
     "渲染/渲染管线流程.md",
     "渲染/GPU Instancing.md",
     "渲染/静态批处理.md",
