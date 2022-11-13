@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Unit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5075454711914
+    "width": 277.5075454711914,
+    "collapsed": true
   },
   "right": {
     "id": "8fea21ba2188e4b3",
@@ -138,7 +139,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4fb8cc955d60271",
+  "active": "65718910d6505747",
   "lastOpenFiles": [
     "渲染/静态批处理.md",
     "渲染/GPU Instancing.md",
