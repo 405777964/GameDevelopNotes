@@ -16,10 +16,9 @@ GPU 实例化可以降低每个场景使用的绘制调用数量。可以显著�
 ![GPU%20Instancing%20%EF%BC%88GPU%E5%AE%9E%E4%BE%8B%E5%8C%96%EF%BC%89%20832f70422ceb4fffbacf34bd7b4411cd/Untitled%202.png](渲染/GPU%20Instancing/Untitled%202.png)
 
 ### 限制
-- Unity 自动选取要实例化的网格渲染器组件和Graphics.DrawMesh 调用。请注意，**不支持 SkinnedMeshRenderer**。
+- Unity 自动选取要实例化的网格渲染器组件和`Graphics.DrawMesh` 调用。请注意，**不支持 `SkinnedMeshRenderer`**。
 - Unity 仅在单个 GPU 实例化绘制调用中批量处理那些共享相同网格和相同材质的游戏对象。**使用少量网格和材质可以提高实例化效率**。要创建变体，请修改着色器脚本为每个实例添加数据
-
-### 还可以使用 Graphics.DrawMeshInstanced 和 Graphics.DrawMeshInstancedIndirect 调用来通过脚本执行 GPU 实例化
+- 还可以使用 `Graphics.DrawMeshInstanced` 和`Graphics.DrawMeshInstancedIndirect` 调用来通过脚本执行 GPU 实例化
 
 ## GPU 实例化可在以下平台和 API 上使用：
 
