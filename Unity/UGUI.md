@@ -13,11 +13,11 @@
 
 如果 `WillRenderCanvas` 的很大一部分是在`IndexedSet_Sort`或`CanvasUpdateRegistry_SortLayoutList`中花费的，那么就会花费时间对脏布局组件列表进行排序。考虑减少画布上布局组件的数量。有关可能的补救措施，请参阅将布局替换为“矩形转换”和“拆分画布”部分。
 
-如果似乎在Text_OnPopulateMesh上花费了过多的时间
+如果似乎在`Text_OnPopulateMesh`上花费了过多的时间
 
 ，那么罪魁祸首就是文本网格的生成。有关可能的补救措施，请参阅“最佳拟合”和“禁用画布”部分，如果正在重建的大部分文本实际上并未更改其基础字符串数据，请考虑拆分画布中的建议。
 
-如果时间花在Shadow_ModifyMesh或Outline_ModifyMesh（或 ModifyMesh 的任何其他实现）上，那么问题在于计算网格修饰符所花费的时间过多。考虑删除这些组件并通过静态图像实现其视觉效果。
+如果时间花在`Shadow_ModifyMesh`或`Outline_ModifyMesh`（或 `ModifyMesh` 的任何其他实现）上，那么问题在于计算网格修饰符所花费的时间过多。考虑删除这些组件并通过静态图像实现其视觉效果。
 
 如果 Canvas.SendWillRenderCanvases 中没有特定的热点，或者它似乎在每一帧中都运行，则问题可能是动态元素已与静态元素组合在一起，并迫使整个 Canvas 过于频繁地重新生成。请参阅拆分画布步骤。
 
