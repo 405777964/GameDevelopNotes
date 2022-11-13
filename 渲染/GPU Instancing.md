@@ -33,6 +33,7 @@ GPU 实例化可以降低每个场景使用的绘制调用数量。可以显著�
 
 某些因素可能会阻止游戏对象同时自动实例化。这些因素包括材质变化和深度排序。使用 `Graphics.DrawMeshInstanced` 可**强制 Unity 使用 GPU 实例化**来绘制这些对象。类似于 `Graphics.DrawMesh`，此函数为一帧绘制网格，不会创建不必要的游戏对象。
 
-### GPU
+### GPU Skin
+将骨骼动画转换为顶点动画
 
 [GPU 实例化 - Unity 手册](http://docs.unity3d.com/cn/current/Manual/GPUInstancing.html)
