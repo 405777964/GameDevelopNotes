@@ -5,13 +5,13 @@
 在 Unity UI 中编写用户界面时，请记住，**Canvas 绘制的所有几何图形都将在“==透明==”队列中绘制**。也就是说，Unity UI 生成的几何图形将始终使用 Alpha 混合从后到前绘制。从性能角度来看，要记住的重要一点是，将从多边形栅格化的每个像素进行采样，即使它完全被其他不透明多边形覆盖。在移动设备上，这种高水平的过度绘制可能会迅速超过 GPU 的填充率容量。
 
 ### 分析探查器结果
-收集分析数据后，可能会得出几个结论。如果 `Canvas.BuildBatch` 或 `Canvas.UpdateBatches` 似乎使用了过多的 CPU 时间，则可能的问题是单个 Canvas 上的 Canvas Renderer 组件过多。请参阅画布步骤的拆分画布部分。
+收集分析数据后，可能会得出几个结论。如果 `Canvas.BuildBatch` 或 `Canvas.UpdateBatches` 似乎使用了过多的 CPU 时间，则可能的问题是单个 Canvas 上的 `Canvas Renderer` 组件过多。请参阅画布步骤的拆分画布部分。
 
 如果在 GPU 上绘制 UI 所花费的时间过多，并且帧调试器指示片段着色器管道是瓶颈，则 UI 可能超出了 GPU 能够达到的像素填充率。最可能的原因是 UI 过度绘制。请参阅填充率、画布和输入步骤的修正填充率问题部分。
 
-如果图形重建使用了过多的 CPU，如很大一部分 CPU 时间转到 Canvas.SendWillRenderCanvases 或 Canvas：：SendWillRenderCanvases，则需要进行更深入的分析。图形重建过程的某些部分可能是负责任的。
+如果图形重建使用了过多的 CPU，如很大一部分 CPU 时间转到 `Canvas.SendWillRenderCanvases` 或 `Canvas.SendWillRenderCanvases`，则需要进行更深入的分析。图形重建过程的某些部分可能是负责任的。
 
-如果 WillRenderCanvas 的很大一部分是在IndexedSet_Sort或CanvasUpdateRegistry_SortLayoutList中花费的，那么就会花费时间对脏布局组件列表进行排序。考虑减少画布上布局组件的数量。有关可能的补救措施，请参阅将布局替换为“矩形转换”和“拆分画布”部分。
+如果 `WillRenderCanvas` 的很大一部分是在`IndexedSet_Sort`或CanvasUpdateRegistry_SortLayoutList中花费的，那么就会花费时间对脏布局组件列表进行排序。考虑减少画布上布局组件的数量。有关可能的补救措施，请参阅将布局替换为“矩形转换”和“拆分画布”部分。
 
 如果似乎在Text_OnPopulateMesh上花费了过多的时间
 
