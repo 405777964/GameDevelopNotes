@@ -19,11 +19,9 @@
             "id": "1a1b55f4c699071e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "渲染/点乘&叉乘.md",
-                "mode": "source",
-                "source": false
+                "file": "渲染/Pasted image 20221113215057.png"
               }
             }
           },
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "渲染/点乘&叉乘.md",
+                "file": "渲染/Pasted image 20221113215057.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/点乘&叉乘.md",
+                "file": "渲染/Pasted image 20221113215057.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "渲染/点乘&叉乘.md"
+                "file": "渲染/Pasted image 20221113215057.png"
               }
             }
           }
@@ -157,17 +155,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1a1b55f4c699071e",
+  "active": "9d64ee64e0a0927c",
   "lastOpenFiles": [
+    "Pasted image 20221113215507.png",
+    "Pasted image 20221113215151.png",
+    "渲染/Pasted image 20221113215057.png",
+    "渲染/静态批处理.md",
+    "渲染/动态批处理.md",
+    "渲染/点乘&叉乘.md",
     "渲染/静态批处理/静态批处理原理.png",
     "渲染/静态批处理/静态批处理流程图.png",
-    "渲染/点乘&叉乘.md",
     "渲染/深度测试 Depth Testing.md",
-    "渲染/模板测试 Stencil Testing.md",
-    "渲染/动态批处理.md",
-    "Lua/模块与包.md",
-    "C#/C#.md",
-    "算法&数据结构/二叉树.md",
-    "渲染/GPU Instancing.md"
+    "渲染/模板测试 Stencil Testing.md"
   ]
 }
