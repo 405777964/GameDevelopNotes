@@ -29,8 +29,8 @@ GPU 实例化可以降低每个场景使用的绘制调用数量。可以显著�
 - WebGL（需要 WebGL 2.0 API）
 
 ### 批处理优先级
-进行批处理时，Unity 将优先处理静态批处理，然后再处理实例化。如果您将其中一个游戏对象标记为静态批处理，并且 Unity 成功对其进行批处理，则 Unity 会禁用该游戏对象的实例化，即使其渲染器使用实例化着色器也是如此。
+进行批处理时，Unity 将==优先处理静态批处理==，然后==再处理实例化==。如果您将其中一个游戏对象标记为静态批处理，并且 Unity 成功对其进行批处理，则 Unity 会禁用该游戏对象的实例化，即使其渲染器使用实例化着色器也是如此。
 
-### 某些因素可能会阻止游戏对象同时自动实例化。这些因素包括材质变化和深度排序。使用 Graphics.DrawMeshInstanced 可强制 Unity 使用 GPU 实例化来绘制这些对象。类似于 Graphics.DrawMesh，此函数为一帧绘制网格，不会创建不必要的游戏对象。
+某些因素可能会阻止游戏对象同时自动实例化。这些因素包括材质变化和深度排序。使用 Graphics.DrawMeshInstanced 可强制 Unity 使用 GPU 实例化来绘制这些对象。类似于 Graphics.DrawMesh，此函数为一帧绘制网格，不会创建不必要的游戏对象。
 
 [GPU 实例化 - Unity 手册](http://docs.unity3d.com/cn/current/Manual/GPUInstancing.html)
