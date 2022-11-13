@@ -52,19 +52,27 @@
             }
           },
           {
-            "id": "2a0ca84ba34dc7bd",
+            "id": "1c929efb2b87c7aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "算法&数据结构/二叉树.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20221113185630.png"
+              }
+            }
+          },
+          {
+            "id": "623e6cda0d483944",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20221113185638.png"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法&数据结构/二叉树.md",
+                "file": "Pasted image 20221113185638.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法&数据结构/二叉树.md",
+                "file": "Pasted image 20221113185638.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法&数据结构/二叉树.md"
+                "file": "Pasted image 20221113185638.png"
               }
             }
           }
@@ -181,17 +189,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a0ca84ba34dc7bd",
+  "active": "623e6cda0d483944",
   "lastOpenFiles": [
-    "算法&数据结构/快速排序.md",
+    "Pasted image 20221113185649.png",
+    "Pasted image 20221113185638.png",
+    "Pasted image 20221113185630.png",
     "算法&数据结构/排序算法.md",
+    "算法&数据结构/二叉树.md",
+    "算法&数据结构/快速排序.md",
     "C#/C# GC.md",
     "C#/C#.md",
     "Lua/模块与包.md",
-    "Lua/数据结构.md",
-    "Lua/Lua 闭包.md",
-    "Lua/Lua 元表和元方法.md",
-    "Lua/Lua Table.md",
-    "Lua/Lua String.md"
+    "Lua/数据结构.md"
   ]
 }
