@@ -11,7 +11,7 @@
 
 如果图形重建使用了过多的 CPU，如很大一部分 CPU 时间转到 `Canvas.SendWillRenderCanvases` 或 `Canvas.SendWillRenderCanvases`，则需要进行更深入的分析。图形重建过程的某些部分可能是负责任的。
 
-如果 `WillRenderCanvas` 的很大一部分是在`IndexedSet_Sort`或CanvasUpdateRegistry_SortLayoutList中花费的，那么就会花费时间对脏布局组件列表进行排序。考虑减少画布上布局组件的数量。有关可能的补救措施，请参阅将布局替换为“矩形转换”和“拆分画布”部分。
+如果 `WillRenderCanvas` 的很大一部分是在`IndexedSet_Sort`或`CanvasUpdateRegistry_SortLayoutList`中花费的，那么就会花费时间对脏布局组件列表进行排序。考虑减少画布上布局组件的数量。有关可能的补救措施，请参阅将布局替换为“矩形转换”和“拆分画布”部分。
 
 如果似乎在Text_OnPopulateMesh上花费了过多的时间
 
