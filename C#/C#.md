@@ -19,19 +19,18 @@ C#熟悉基元类型，会在编译代码的时候应用特殊规则，支持与
 Int32 i = 5;
 Int64 l = i;
 
-as和is的区别
+#### as和is的区别
 is判断对象是否为该类型，返回true或false
 
+```C#
 Object o = new Object();
-
 Boolean b1 = (o is Object);
-
 Boolean b1 = (o is Object);
-
+```
 要做两遍判断。
-
 as直接强转换，如果不能转型返回null。
-
+```C
+```
 Object o = new Object();
 
 Employee e = o as Employee;
@@ -56,8 +55,6 @@ p.x = p.y = 1;
 Object o = p; //装箱
 p = (Point) o; //拆箱
 ```
-
-
 拆箱的代价比装箱低得多。
 
 方法
