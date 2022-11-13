@@ -11,9 +11,11 @@
             "id": "65718910d6505747",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled 1.png"
+                "file": "渲染/渲染管线流程/深度测试 Depth Testing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled 1.png",
+                "file": "渲染/渲染管线流程/深度测试 Depth Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled 1.png",
+                "file": "渲染/渲染管线流程/深度测试 Depth Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled 1.png"
+                "file": "渲染/渲染管线流程/深度测试 Depth Testing.md"
               }
             }
           }
@@ -137,6 +139,7 @@
   },
   "active": "65718910d6505747",
   "lastOpenFiles": [
+    "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled 1.png",
     "渲染/渲染管线流程/阴影映射 Shadow Mapping/Untitled.png",
     "渲染/渲染管线流程/延迟着色法 Deferred Shading/Untitled.png",
     "渲染/渲染管线流程/延迟着色法 Deferred Shading/Untitled 1.png",
@@ -145,7 +148,6 @@
     "渲染/渲染管线流程/模板测试 Stencil Testing/Untitled.png",
     "渲染/动态批处理/动态批处理流程图.png",
     "渲染/静态批处理/静态批处理原理.png",
-    "渲染/静态批处理/静态批处理流程图.png",
-    "渲染/渲染管线流程.md"
+    "渲染/静态批处理/静态批处理流程图.png"
   ]
 }
