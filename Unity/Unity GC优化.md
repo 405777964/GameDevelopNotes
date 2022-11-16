@@ -37,3 +37,5 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 - Not Saved：被标记为DontSave的GameObjects。
 - Scene Memory：GameObject和它的附属的Components。
 - Other：其他不在上面几条分类中的。
+
+## IOS的内存管理
