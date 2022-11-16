@@ -47,4 +47,5 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 - Resident Memory：驻留内存，这是游戏或APP实际所占用的物理内存。当应用向系统申请内存的时候，虚拟内存是直接增长的。但如果申请完的内存并没有向里面写入数据，它并不会产生实际的物理内存分配。（*图中VM分配了4个region，第3个region包括了13个page，真正映射到物理内存上的page只有6个，这6个就是Resident Memory*）![[Pasted image 20221117010716.png]]
 - Clean Memory：Clean内存是Resident Memory的一部分。但这部分内存的类型是只读的。由于是只读的特性，因此它可以在应用程序内存不足的时候被Page Out。
 - Dirty Memory：这部分无法被OS换页操作。
-- Swapped Compressed Memory：属于Dirty内存，当应用内存不足时，OS会将Dirty内存使用频次较少的内存进行压缩存放。
+- Swapped Compressed Memory：属于Dirty内存，当应用内存不足时，OS会将Dirty内存使用频次较少的内存进行压缩存放，等需要用的时候再重新解压。
+- Footprint：是苹果推荐的内存度量和优化的指标。当Memory Footprintd z
