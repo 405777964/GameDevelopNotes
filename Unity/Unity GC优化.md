@@ -48,4 +48,5 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 - Clean Memory：Clean内存是Resident Memory的一部分。但这部分内存的类型是只读的。由于是只读的特性，因此它可以在应用程序内存不足的时候被Page Out。
 - Dirty Memory：这部分无法被OS换页操作。
 - Swapped Compressed Memory：属于Dirty内存，当应用内存不足时，OS会将Dirty内存使用频次较少的内存进行压缩存放，等需要用的时候再重新解压。
-- Footprint：是苹果推荐的内存度量和优化的指标。当Memory Footprintd z
+- Footprint：是苹果推荐的内存度量和优化的指标。当Memory Footprint的值达到Limit line会触发内存警告，导致OOM。![[Pasted image 20221117011340.png]]
+
