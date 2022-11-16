@@ -27,4 +27,5 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 - **GfxDriver**：GPU显存开销，主要由Texture，Vertex buffer，index buffer组成。
 *这里的Total Reserved还不是游戏虚拟内存的精确值*
 	- 它不包括游戏的二进制可执行文件。
-	- GfxDriverbu'bao'kuo
+	- GfxDriver不包括渲染目标和由驱动层分配的各种缓冲区。
+	- **分析器只看到Unity代码完成的分配，看不到第三方native插件和操作系统的分配。**
