@@ -39,3 +39,6 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 - Other：其他不在上面几条分类中的。
 
 ## IOS的内存管理
+### IOS系统所使用的内存形态
+- Physical Memory：IOS设备上的物理芯片内存（机器内存）。
+- Virtual Memory
