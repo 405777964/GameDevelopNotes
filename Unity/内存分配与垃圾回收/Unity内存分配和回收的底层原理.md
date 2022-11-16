@@ -1,10 +1,9 @@
 #垃圾回收 
 
-### Unity内存分为两种：
-
-**原生内存** Native Memory
-
-**托管内存** Managed Memory
+### Unity内存种类：
+- **原生内存** Native Memory
+	- 
+- **托管内存** Managed Memory
 
 Unity使用**Memory Manager**来管理内存
 
