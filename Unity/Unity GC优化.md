@@ -42,4 +42,5 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 ### IOS系统所使用的内存形态
 - Physical Memory：IOS设备上的物理芯片内存（机器内存）。
 - Virtual Memory：虚拟内存，也是OS给每个APP分配的虚拟地址空间。
-- GPU Driver Memory：IOS系统使用统一架构，即GPU和CPU共享某一部分内存，如纹理和网格数据，这些是由驱动器进行分配的。另外hai'you
+- GPU Driver Memory：IOS系统使用统一架构，即GPU和CPU共享某一部分内存，如纹理和网格数据，这些是由驱动器进行分配的。另外还有一些是GPU的驱动层和GPU独享的内存类型。（Video memory）![[Pasted image 20221117010437.png]]
+- Malloc Heap：APP实际申请内存的di'f
