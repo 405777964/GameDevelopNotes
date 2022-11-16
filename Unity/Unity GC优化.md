@@ -56,4 +56,5 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 
 ## Android的内存
 - RAM：内存。
-- zRAM：内存不足
+- zRAM：内存不足时，OS会将RAM的一部分数据压缩存在zRAM。
+- Storage：存储器，放APP、照片、缓存文件等东西。![[Pasted image 20221117011714.png]]
