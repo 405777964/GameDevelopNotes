@@ -18,7 +18,7 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 ![[Pasted image 20221117004023.png]]
 *空出来又不能被重复利用的内存就成为了内存碎片*
 
-### Profiler Simple View
+### Profiler Simple 视图
 使用Unity的Profiler进行内存分析
 ![[Pasted image 20221117004432.png]]
 - **Used Total **: 已使用内存。
@@ -29,3 +29,5 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 	- 它不包括游戏的二进制可执行文件。
 	- GfxDriver不包括渲染目标和由驱动层分配的各种缓冲区。
 	- **分析器只看到Unity代码完成的分配，看不到第三方native插件和操作系统的分配。**
+
+### Profiler Detailed 视图
