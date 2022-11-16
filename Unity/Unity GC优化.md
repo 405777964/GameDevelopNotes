@@ -44,5 +44,5 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 - Virtual Memory：虚拟内存，也是OS给每个APP分配的虚拟地址空间。
 - GPU Driver Memory：IOS系统使用统一架构，即GPU和CPU共享某一部分内存，如纹理和网格数据，这些是由驱动器进行分配的。另外还有一些是GPU的驱动层和GPU独享的内存类型。（Video memory）![[Pasted image 20221117010437.png]]
 - Malloc Heap：APP实际申请内存的地方。（Unity申请内存都在这里）
-- Resident Memory：驻留内存，这是游戏或APP实际所占用的物理内存。当应用向系统申请内存的时候，虚拟内存是直接增长的。但如果申请完的内存并没有向里面写入数据，它并不会产生实际的物理内存分配。![[Pasted image 20221117010716.png]]
+- Resident Memory：驻留内存，这是游戏或APP实际所占用的物理内存。当应用向系统申请内存的时候，虚拟内存是直接增长的。但如果申请完的内存并没有向里面写入数据，它并不会产生实际的物理内存分配。（*图中VM分配了4个region，第3个region包括了13个pa*）![[Pasted image 20221117010716.png]]
 - 
