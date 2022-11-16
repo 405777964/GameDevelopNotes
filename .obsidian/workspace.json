@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/UGUI.md",
+                "file": "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/UGUI.md",
+                "file": "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/UGUI.md",
+                "file": "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/UGUI.md"
+                "file": "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "d231d8772ddc90c6",
   "lastOpenFiles": [
-    "Unity/热更新/AssetBundle.md",
-    "Unity/纹理压缩.md",
-    "Unity/内存分配与垃圾回收.md",
     "Unity/内存分配与垃圾回收/Untitled.png",
+    "Unity/纹理压缩.md",
+    "Unity/UGUI.md",
+    "Unity/热更新/AssetBundle.md",
+    "Unity/内存分配与垃圾回收.md",
     "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
     "Lua/Lua 元表和元方法.md",
     "C#/C# GC.md",
     "C#/C#.md",
-    "优化/移动端优化.md",
-    "Lua/16 编译、执行和错误.md"
+    "优化/移动端优化.md"
   ]
 }
