@@ -31,3 +31,6 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 	- **分析器只看到Unity代码完成的分配，看不到第三方native插件和操作系统的分配。**
 
 ### Profiler Detailed 视图
+![[Pasted image 20221117005417.png]]
+- Assets：当前从scenes，Resources和AssetBundles加载的总资源。
+- Built-in Resources：Unity Editor资源
