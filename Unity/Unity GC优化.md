@@ -25,4 +25,6 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 - **Unity**：所有Unity申请和管理的内存（包含Mono Heap）。
 - **Mono**：托管堆内存。
 - **GfxDriver**：GPU显存开销，主要由Texture，Vertex buffer，index buffer组成。
-*zh'liTotal*
+*这里的Total Reserved还不是游戏虚拟内存的精确值*
+	- 它不包括游戏的二进制可执行文件。
+	- GfxDriverbu'bao'kuo
