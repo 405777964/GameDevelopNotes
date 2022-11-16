@@ -58,3 +58,7 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 - RAM：内存。
 - zRAM：内存不足时，OS会将RAM的一部分数据压缩存在zRAM。
 - Storage：存储器，放APP、照片、缓存文件等东西。![[Pasted image 20221117011714.png]]
+- **VSS-** Virtual Set Size 虚拟耗用内存（包含共享库占用的内存）
+- **RSS-** Resident Set Size 实际使用物理内存（包含共享库占用的内存）
+- **PSS**- Proportional Set Size 实际使用的物理内存（比例分配共享库占用的内存）
+**USS-** Unique Set Size 进程独自占用的物理内存（不包含共享库占用的内存）
