@@ -24,4 +24,4 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 - Used Total : 已使用内存。
 - Unity：所有Unity申请和管理的内存（包含Mono Heap）。
 - Mono：托管堆内存。
-- 
+- GfxDriver：GPU显存开销，主要由Texture，Vertex buffer，index buffer组成。
