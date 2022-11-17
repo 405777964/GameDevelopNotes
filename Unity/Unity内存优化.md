@@ -29,4 +29,29 @@ Unity内部由两个内存管理池：
 - **不要在频繁调用的函数（如Update）里反复进行堆内存分配**
 - **清空数据重复使用堆内存分配的对象**（对象池）
 - **字符串连接**
-- **Unity函数调用**：如果
+- **Unity函数调用**：在Unity中如果函数需要返回一个数组，则一个新的数组会被分配出来用作结果返回，这不容易被注意到，特别是如果该函数含有迭代器，下面的代码中对于每个迭代器都会产生一个新的数组：
+```C#
+void ExampleFunction()
+{
+    for(int i=0; i < myMesh.normals.Length;i++)
+    {
+        Vector3 normal = myMesh.normals[i];
+    }
+}
+
+`void` `ExampleFunction()`
+
+`{`
+
+    `Vector3[] meshNormals = myMesh.normals;`
+
+    `for``(``int` `i=0; i < meshNormals.Length;i++)`
+
+    `{`
+
+        `Vector3 normal = meshNormals[i];`
+
+    `}`
+
+`}`
+```
