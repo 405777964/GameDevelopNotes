@@ -64,4 +64,9 @@ public struct ItemData
     public Vector3 position;
 }
 private ItemData[] itemData;
+
+//我们可以将该struct拆分为多个数组的形式，从而减小GC的工作量：
+private string[] itemNames;
+private int[] itemCosts;
+private Vector3[] itemPositions;
 ```
