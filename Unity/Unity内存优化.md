@@ -56,3 +56,12 @@ void ExampleFunction()
 
 ## 重构代码来减小GC的影响
 即使我们减小了代码在堆内存上的分配操作，代码也会增加GC的工作量。最常见的==增加GC工作量的方式是让其检查它不必检查的对象==。struct是值类型的变量，==但是如果struct中包含有引用类型的变量，那么GC就必须检测整个struct==。如果这样的操作很多，那么GC的工作量就大大增加。在下面的例子中struct包含一个string，那么整个struct都必须在GC中被检查：
+```C#
+public struct ItemData
+{
+    public string name;
+    public int cost;
+    public Vector3 position;
+}
+private ItemData[] itemData;
+```
