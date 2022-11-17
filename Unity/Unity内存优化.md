@@ -74,14 +74,20 @@ private Vector3[] itemPositions;
 ```C#
 public class DialogData
 {
-     private` DialogData nextDialog;`
-     `public` `DialogData GetNextDialog()`
+     private DialogData nextDialog;
+     public DialogData GetNextDialog()
+     {
+           return nextDialog;
+     }
+}
 
-     `{`
-
-           `return` `nextDialog;`
-
-     `}`
-
-`}`
+//通过重构代码，我们可以返回下一个对话框实体的标记，而不是对话框实体本身，这样就没有多余的object引用，从而减少GC的工作量：
+public class DialogData
+{
+     private int nextDialogID;
+     public int GetNextDialogID()
+     {
+           return nextDialogID;
+     }
+}
 ```
