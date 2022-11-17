@@ -61,4 +61,4 @@ Unity内部有几个专门的分配器，它们负责管理虚拟内存的短期
 - **VSS-** Virtual Set Size 虚拟耗用内存（包含共享库占用的内存）
 - **RSS-** Resident Set Size 实际使用物理内存（包含共享库占用的内存）
 - **PSS**- Proportional Set Size 实际使用的物理内存（比例分配共享库占用的内存）
-**USS-** Unique Set Size 进程独自占用的物理内存（不包含共享库占用的内存）
+- **USS-** Unique Set Size 进程独自占用的物理内存（不包含共享库占用的内存）
