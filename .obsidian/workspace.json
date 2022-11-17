@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Unity GC优化.md",
+                "file": "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Unity GC优化.md",
+                "file": "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/Unity GC优化.md"
+                "file": "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md"
               }
             }
           }
@@ -149,10 +150,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "1a1b55f4c699071e",
+  "active": "9bc41b68d3dae72c",
   "lastOpenFiles": [
-    "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
     "Unity/Unity GC优化.md",
+    "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
     "Unity/纹理压缩.md",
     "Unity/内存分配与垃圾回收.md",
     "Unity/热更新/AssetBundle.md",
