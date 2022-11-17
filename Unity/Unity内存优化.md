@@ -70,3 +70,18 @@ private string[] itemNames;
 private int[] itemCosts;
 private Vector3[] itemPositions;
 ```
+另外一种在代码中增加GC工作量的方式是保存不必要的Object引用，在进行GC操作的时候会对堆内存上的object引用进行检查，越少的引用就意味着越少的检查工作量。在下面的例子中，当前的对话框中包含一个对下一个对话框引用，这就使得GC的时候会去检查下一个对象框：
+```C#
+public class DialogData
+{
+     private` DialogData nextDialog;`
+     `public` `DialogData GetNextDialog()`
+
+     `{`
+
+           `return` `nextDialog;`
+
+     `}`
+
+`}`
+```
