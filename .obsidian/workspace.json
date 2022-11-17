@@ -165,6 +165,7 @@
   "active": "3b7192bba64911b9",
   "lastOpenFiles": [
     "Unity/Unity内存原理.md",
+    "Unity/Unity内存优化.md",
     "Unity/纹理压缩.md",
     "Unity/UGUI.md",
     "Unity/内存分配与垃圾回收/Unity内存分配和回收的底层原理.md",
@@ -172,7 +173,6 @@
     "Unity/热更新/AssetBundle.md",
     "Unity/内存分配与垃圾回收/Untitled.png",
     "Lua/Lua 元表和元方法.md",
-    "C#/C# GC.md",
-    "C#/C#.md"
+    "C#/C# GC.md"
   ]
 }
