@@ -38,20 +38,13 @@ void ExampleFunction()
         Vector3 normal = myMesh.normals[i];
     }
 }
-
-`void` `ExampleFunction()`
-
-`{`
-
-    `Vector3[] meshNormals = myMesh.normals;`
-
-    `for``(``int` `i=0; i < meshNormals.Length;i++)`
-
-    `{`
-
-        `Vector3 normal = meshNormals[i];`
-
-    `}`
-
-`}`
+//**对于这样的问题，我们可以缓存一个数组的引用，这样只需要分配一个数组就可以实现相同的功能，从而减少内存垃圾的产生：**//
+void ExampleFunction()
+{
+    Vector3[] meshNormals = myMesh.normals;
+    for(int i=0; i < meshNormals.Length;i++)
+    {
+        Vector3 normal = meshNormals[i];
+    }
+}
 ```
