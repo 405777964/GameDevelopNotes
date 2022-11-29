@@ -91,3 +91,8 @@ public class DialogData
      }
 }
 ```
+## 定期执行GC操作
+`System.GC.Collect()`
+通过主动的调用，我们可以主动驱使GC操作来回收堆内存。
+
+https://www.cnblogs.com/zblade/p/6445578.html
