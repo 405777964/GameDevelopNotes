@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/移动端优化.md",
+                "file": "Unity/Unity内存优化.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/移动端优化.md",
+                "file": "Unity/Unity内存优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/移动端优化.md",
+                "file": "Unity/Unity内存优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/移动端优化.md"
+                "file": "Unity/Unity内存优化.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "9d64ee64e0a0927c",
+  "active": "d8483f6247a98055",
   "lastOpenFiles": [
+    "Unity/Unity内存原理.md",
+    "Unity/Unity内存优化.md",
+    "Unity/UGUI.md",
+    "Unity/移动端优化.md",
+    "Unity/纹理压缩.md",
     "C#/C# GC.md",
     "C#/C#.md",
     "Lua/模块与包.md",
     "Lua/16 编译、执行和错误.md",
-    "优化.md",
-    "阅读清单.md",
-    "WIKI.md",
-    "Unity内存分配和回收的底层原理.md",
-    "Unity/Unity内存原理.md",
-    "Unity/Unity内存优化.md"
+    "优化.md"
   ]
 }
