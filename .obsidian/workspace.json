@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Unity内存优化.md",
+                "file": "Lua/16 编译、执行和错误.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Unity内存优化.md",
+                "file": "Lua/16 编译、执行和错误.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Unity内存优化.md",
+                "file": "Lua/16 编译、执行和错误.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/Unity内存优化.md"
+                "file": "Lua/16 编译、执行和错误.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "d8483f6247a98055",
   "lastOpenFiles": [
-    "Unity/Unity内存原理.md",
     "Unity/Unity内存优化.md",
+    "Unity/Unity内存原理.md",
     "Unity/UGUI.md",
     "Unity/移动端优化.md",
     "Unity/纹理压缩.md",
