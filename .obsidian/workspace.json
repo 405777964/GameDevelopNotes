@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fb1874581bede133",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +149,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "fb1874581bede133",
+  "active": "d8483f6247a98055",
   "lastOpenFiles": [
     "Unity/Unity内存优化.md",
     "Unity/Unity内存原理.md",
