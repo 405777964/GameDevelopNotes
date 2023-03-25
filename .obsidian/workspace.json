@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6841284375aa788e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#/GC.SuppressFinalize.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/EventHandler.md",
+                "file": "C#/GC.SuppressFinalize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/EventHandler.md",
+                "file": "C#/GC.SuppressFinalize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/EventHandler.md"
+                "file": "C#/GC.SuppressFinalize.md"
               }
             }
           }
@@ -149,17 +162,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "d8483f6247a98055",
+  "active": "6841284375aa788e",
   "lastOpenFiles": [
+    "未命名.md",
+    "学习网址.md",
+    "C#/EventHandler.md",
     "C#/C# GC.md",
     "Unity/Unity内存优化.md",
     "Unity/Unity内存原理.md",
     "Lua/模块与包.md",
     "Lua/数据结构.md",
     "Lua/Lua 闭包.md",
-    "Lua/Lua 元表和元方法.md",
-    "Lua/Lua Table.md",
-    "C#/EventHandler.md",
-    "Lua/Lua WIKI.md"
+    "Lua/Lua 元表和元方法.md"
   ]
 }
