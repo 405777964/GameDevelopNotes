@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c04e256a1fb6e17e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Assembly definitions（程序集定义）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md",
+                "file": "Unity/Assembly definitions（程序集定义）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md",
+                "file": "Unity/Assembly definitions（程序集定义）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md"
+                "file": "Unity/Assembly definitions（程序集定义）.md"
               }
             }
           }
@@ -162,8 +174,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "6841284375aa788e",
+  "active": "c04e256a1fb6e17e",
   "lastOpenFiles": [
+    "C#/GC.SuppressFinalize.md",
     "未命名.md",
     "学习网址.md",
     "C#/EventHandler.md",
@@ -172,7 +185,6 @@
     "Unity/Unity内存原理.md",
     "Lua/模块与包.md",
     "Lua/数据结构.md",
-    "Lua/Lua 闭包.md",
-    "Lua/Lua 元表和元方法.md"
+    "Lua/Lua 闭包.md"
   ]
 }

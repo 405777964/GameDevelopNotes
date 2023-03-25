@@ -1,0 +1,3 @@
+通过定义程序集，可以组织代码以促进模块化和可重用性。为项目定义的程序集中的脚本不再添加到默认程序集中，并且只能访问指定的其他程序集中的脚本。
+
+https://docs.unity3d.com/cn/current/Manual/ScriptCompilationAssemblyDefinitionFiles.html
