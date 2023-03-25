@@ -151,15 +151,15 @@
   },
   "active": "d8483f6247a98055",
   "lastOpenFiles": [
-    "C#/C#.md",
-    "C#/EventHandler.md",
     "C#/C# GC.md",
-    "Lua/16 编译、执行和错误.md",
     "Unity/Unity内存优化.md",
     "Unity/Unity内存原理.md",
-    "Unity/UGUI.md",
-    "Unity/移动端优化.md",
-    "Unity/纹理压缩.md",
-    "Lua/模块与包.md"
+    "Lua/模块与包.md",
+    "Lua/数据结构.md",
+    "Lua/Lua 闭包.md",
+    "Lua/Lua 元表和元方法.md",
+    "Lua/Lua Table.md",
+    "C#/EventHandler.md",
+    "Lua/Lua WIKI.md"
   ]
 }
