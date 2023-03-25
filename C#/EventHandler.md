@@ -4,3 +4,4 @@
     `button.Click += new EventHandler(button1_Click);`
 
 ## 类型安全
+如果这个语言的类型系统能够保证所有程序都不会出现未定义行为，那么这个语言就是类型安全的。
