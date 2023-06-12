@@ -64,9 +64,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87f6d15f141ae055",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -109,6 +119,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7a51b147509b8d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -196,7 +214,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "7c37133607f6af15",
+  "active": "87f6d15f141ae055",
   "lastOpenFiles": [
     "GameFramework/随记.md",
     "GameFramework",
