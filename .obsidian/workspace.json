@@ -84,9 +84,19 @@
                 "currentVersion": "1.3.5"
               }
             }
+          },
+          {
+            "id": "aa6c479f29b09cfb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -224,7 +234,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "91eda61c02acb796",
+  "active": "aa6c479f29b09cfb",
   "lastOpenFiles": [
     "GameFramework/随记.md",
     "GameFramework",
