@@ -239,6 +239,7 @@
   "active": "aa6c479f29b09cfb",
   "lastOpenFiles": [
     "Unity/Unity内存优化.md",
+    "Unity/Unity内存原理.md",
     "学习网址.md",
     "GameFramework/随记.md",
     "GameFramework",
@@ -246,7 +247,6 @@
     "未命名.md",
     "C#/EventHandler.md",
     "C#/C# GC.md",
-    "Unity/Unity内存原理.md",
     "Lua/模块与包.md",
     "Lua/数据结构.md",
     "Lua/Lua 闭包.md"
