@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md",
+                "file": "Unity/Unity内存优化.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md",
+                "file": "Unity/Unity内存优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md",
+                "file": "Unity/Unity内存优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md"
+                "file": "Unity/Unity内存优化.md"
               }
             }
           }
@@ -238,18 +238,20 @@
   },
   "active": "aa6c479f29b09cfb",
   "lastOpenFiles": [
-    "Unity/Unity内存优化.md",
-    "未命名.canvas",
     "Unity/Unity内存原理.md",
-    "Unity/代码编译 Mono IL2CPP.md",
+    "Unity/Unity内存优化.md",
+    "Unity/Assembly definitions（程序集定义）.md",
+    "Unity/UGUI.md",
+    "Unity/移动端优化.md",
     "Unity/纹理压缩.md",
+    "C#/GC.SuppressFinalize.md",
+    "未命名.canvas",
+    "Unity/代码编译 Mono IL2CPP.md",
     "C#/C# GC.md",
     "C#/C#.md",
-    "Unity/UGUI.md",
     "学习网址.md",
     "GameFramework/随记.md",
     "GameFramework",
-    "C#/GC.SuppressFinalize.md",
     "未命名.md",
     "C#/EventHandler.md",
     "Lua/模块与包.md",
