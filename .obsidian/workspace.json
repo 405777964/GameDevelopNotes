@@ -89,9 +89,11 @@
             "id": "aa6c479f29b09cfb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Unity/Unity内存优化.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -170,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GameFramework/随记.md",
+                "file": "Unity/Unity内存优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GameFramework/随记.md",
+                "file": "Unity/Unity内存优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GameFramework/随记.md"
+                "file": "Unity/Unity内存优化.md"
               }
             }
           }
@@ -236,11 +238,11 @@
   },
   "active": "aa6c479f29b09cfb",
   "lastOpenFiles": [
+    "学习网址.md",
     "GameFramework/随记.md",
     "GameFramework",
     "C#/GC.SuppressFinalize.md",
     "未命名.md",
-    "学习网址.md",
     "C#/EventHandler.md",
     "C#/C# GC.md",
     "Unity/Unity内存优化.md",
