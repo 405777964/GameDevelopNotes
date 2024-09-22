@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Unity内存优化.md",
+                "file": "C#/C# GC.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Unity内存优化.md",
+                "file": "C#/C# GC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Unity内存优化.md",
+                "file": "C#/C# GC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/Unity内存优化.md"
+                "file": "C#/C# GC.md"
               }
             }
           }
@@ -238,16 +238,17 @@
   },
   "active": "aa6c479f29b09cfb",
   "lastOpenFiles": [
-    "Unity/UGUI.md",
-    "Unity/Unity内存优化.md",
     "Unity/Unity内存原理.md",
+    "C#/C# GC.md",
+    "C#/C#.md",
+    "Unity/Unity内存优化.md",
+    "Unity/UGUI.md",
     "学习网址.md",
     "GameFramework/随记.md",
     "GameFramework",
     "C#/GC.SuppressFinalize.md",
     "未命名.md",
     "C#/EventHandler.md",
-    "C#/C# GC.md",
     "Lua/模块与包.md",
     "Lua/数据结构.md",
     "Lua/Lua 闭包.md"
