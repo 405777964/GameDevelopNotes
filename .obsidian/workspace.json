@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Unity内存优化.md",
+                "file": "Unity/Unity内存原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5075454711914
+    "width": 200
   },
   "right": {
     "id": "8fea21ba2188e4b3",
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Unity内存优化.md",
+                "file": "Unity/Unity内存原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Unity内存优化.md",
+                "file": "Unity/Unity内存原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/Unity内存优化.md"
+                "file": "Unity/Unity内存原理.md"
               }
             }
           }
@@ -238,6 +238,7 @@
   },
   "active": "aa6c479f29b09cfb",
   "lastOpenFiles": [
+    "Unity/Unity内存优化.md",
     "学习网址.md",
     "GameFramework/随记.md",
     "GameFramework",
@@ -245,7 +246,6 @@
     "未命名.md",
     "C#/EventHandler.md",
     "C#/C# GC.md",
-    "Unity/Unity内存优化.md",
     "Unity/Unity内存原理.md",
     "Lua/模块与包.md",
     "Lua/数据结构.md",
