@@ -96,9 +96,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3accf1dd8fbf6855",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -236,7 +246,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "6edf8e8b58233db1",
+  "active": "3accf1dd8fbf6855",
   "lastOpenFiles": [
     "Python/基本语法/Untitled.png",
     "Unity/Unity内存优化.md",
