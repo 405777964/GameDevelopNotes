@@ -101,9 +101,11 @@
             "id": "3accf1dd8fbf6855",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "C#/GC.SuppressFinalize.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -182,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/基本语法.md",
+                "file": "C#/GC.SuppressFinalize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/基本语法.md",
+                "file": "C#/GC.SuppressFinalize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/基本语法.md"
+                "file": "C#/GC.SuppressFinalize.md"
               }
             }
           }
@@ -248,18 +250,18 @@
   },
   "active": "3accf1dd8fbf6855",
   "lastOpenFiles": [
+    "Unity/纹理压缩.md",
+    "Unity/代码编译 Mono IL2CPP.md",
+    "C#/C#.md",
     "Python/基本语法/Untitled.png",
     "Unity/Unity内存优化.md",
     "Unity/Unity内存原理.md",
     "Unity/Assembly definitions（程序集定义）.md",
     "Unity/UGUI.md",
     "Unity/移动端优化.md",
-    "Unity/纹理压缩.md",
     "C#/GC.SuppressFinalize.md",
     "未命名.canvas",
-    "Unity/代码编译 Mono IL2CPP.md",
     "C#/C# GC.md",
-    "C#/C#.md",
     "学习网址.md",
     "GameFramework/随记.md",
     "GameFramework",
