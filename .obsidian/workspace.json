@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md",
+                "file": "C#/C#.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md",
+                "file": "C#/C#.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md",
+                "file": "C#/C#.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md"
+                "file": "C#/C#.md"
               }
             }
           }
@@ -250,6 +250,7 @@
   },
   "active": "3accf1dd8fbf6855",
   "lastOpenFiles": [
+    "C#/GC.SuppressFinalize.md",
     "Unity/纹理压缩.md",
     "Unity/代码编译 Mono IL2CPP.md",
     "C#/C#.md",
@@ -259,7 +260,6 @@
     "Unity/Assembly definitions（程序集定义）.md",
     "Unity/UGUI.md",
     "Unity/移动端优化.md",
-    "C#/GC.SuppressFinalize.md",
     "未命名.canvas",
     "C#/C# GC.md",
     "学习网址.md",
