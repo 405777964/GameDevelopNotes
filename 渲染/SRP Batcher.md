@@ -10,4 +10,6 @@ Scriptable Render Pipeline Batcher
 2. GPU instancing  GPU 实例化
 3. Dynamic batching  动态批处理
 
+
+
 https://docs.unity3d.com/cn/current/Manual/SRPBatcher.html
