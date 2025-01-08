@@ -10,6 +10,8 @@ Scriptable Render Pipeline Batcher
 2. GPU instancing  GPU 实例化
 3. Dynamic batching  动态批处理
 
-
+## SRP Batcher 的工作原理
+优化绘制调用的传统方法是减少绘制调用的数量。相反，SRP Batcher 减少了绘制调用之间的渲染状态更改。为此，SRP Batcher 结合了一系列 `bind` 和 `draw` GPU 命令。每个命令序列称为 SRP 批处理。
+![[Pasted image 20250108220142.png]]
 
 https://docs.unity3d.com/cn/current/Manual/SRPBatcher.html
