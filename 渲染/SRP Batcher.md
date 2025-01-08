@@ -17,5 +17,7 @@ Scriptable Render Pipeline Batcher
 SRP Batcher 是一个低级渲染循环，它使材质数据保留在 GPU 内存中。如果==材质内容没有更改==，则 ==SRP Batcher 不会进行任何渲染状态更改==。相反，SRP Batcher 使用==专用代码路径来更新大型 GPU 缓冲区中的 Unity 引擎属性==（Transform之类的）。
 ![[Pasted image 20250108220843.png]]
 
-所以对比起动态批处理，SRP 
+所以对比起动态批处理，SRP Batacher更容易实现合批。
+如果要使用 [GPU 实例化](https://docs.unity3d.com/cn/current/Manual/GPUInstancing.html)，它与 SRP Batcher 不兼容。如果要使用完全相同的材质渲染许多相同的网格，则 GPU 实例化可能比 SRP Batcher 更高效。
+SRP是
 https://docs.unity3d.com/cn/current/Manual/SRPBatcher.html
