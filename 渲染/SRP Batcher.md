@@ -19,5 +19,4 @@ SRP Batcher 是一个低级渲染循环，它使材质数据保留在 GPU 内存
 
 所以对比起动态批处理，SRP Batacher更容易实现合批。
 如果要使用 [GPU 实例化](https://docs.unity3d.com/cn/current/Manual/GPUInstancing.html)，它与 SRP Batcher 不兼容。如果要使用完全相同的材质渲染许多相同的网格，则 GPU 实例化可能比 SRP Batcher 更高效。
-SRP是
 https://docs.unity3d.com/cn/current/Manual/SRPBatcher.html
