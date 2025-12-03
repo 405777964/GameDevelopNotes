@@ -60,7 +60,7 @@ end
 
 __index不一定必须是个函数，也可以是个表。
 可以写成
-mt.__
+`mt.__index = prototype`
 
 如果想访问一个表时不调用__index元方法，可以使用函数rawget。
 
