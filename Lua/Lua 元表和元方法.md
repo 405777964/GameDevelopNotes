@@ -63,7 +63,7 @@ __index不一定必须是个函数，也可以是个表。
 `mt.__index = prototype`
 
 如果想访问一个表时不调用__index元方法，可以使用函数rawget。
-
+raget
 ## __newindex元方法
 
 __newindex与__index类似，但前者用于表的更新，后者用于表的查询。
