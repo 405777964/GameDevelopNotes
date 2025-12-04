@@ -131,12 +131,14 @@
             "id": "b71b8ccccbe9f411",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Lua/Lua与C的交互.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
+              "icon": "lucide-file",
+              "title": "Lua与C的交互"
             }
           }
         ],
@@ -242,11 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lua/Lua与C的交互.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Lua与C的交互 的出链列表"
             }
           },
           {
@@ -297,10 +300,10 @@
   },
   "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
+    "Lua/Lua WIKI.md",
     "Lua/Lua与C的交互.md",
     "Lua/Lua虚拟机 （nil）.md",
     "Lua/Lua Table.md",
-    "Lua/Lua WIKI.md",
     "Lua/Lua String.md",
     "Lua/Lua GC.md",
     "Lua/Lua 元表和元方法.md",
