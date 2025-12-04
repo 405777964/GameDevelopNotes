@@ -133,12 +133,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Lua与C的交互.md",
+                "file": "Lua/Lua 闭包.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lua与C的交互"
+              "title": "Lua 闭包"
             }
           }
         ],
@@ -244,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua与C的交互.md",
+                "file": "Lua/Lua 闭包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lua与C的交互 的出链列表"
+              "title": "Lua 闭包 的出链列表"
             }
           },
           {
@@ -300,16 +300,17 @@
   },
   "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
-    "Lua/Lua WIKI.md",
+    "Lua/数据结构.md",
+    "Lua/16 编译、执行和错误.md",
+    "Lua/模块与包.md",
+    "Lua/Lua 闭包.md",
+    "Lua/Lua GC.md",
     "Lua/Lua与C的交互.md",
+    "Lua/Lua WIKI.md",
     "Lua/Lua虚拟机 （nil）.md",
     "Lua/Lua Table.md",
     "Lua/Lua String.md",
-    "Lua/Lua GC.md",
     "Lua/Lua 元表和元方法.md",
-    "Lua/Lua 闭包.md",
-    "Lua/16 编译、执行和错误.md",
-    "Lua/模块与包.md",
     "渲染/模板测试 Stencil Testing.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
@@ -335,7 +336,6 @@
     "Unity/移动端优化.md",
     "C#/C# GC.md",
     "学习网址.md",
-    "GameFramework/随记.md",
     "GameFramework"
   ]
 }
