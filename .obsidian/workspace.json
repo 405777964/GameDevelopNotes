@@ -126,9 +126,21 @@
               "icon": "lucide-file",
               "title": "Lua虚拟机 （nil）"
             }
+          },
+          {
+            "id": "b71b8ccccbe9f411",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -176,8 +189,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -229,12 +242,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua虚拟机 （nil）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lua虚拟机 （nil） 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -271,6 +283,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -282,7 +295,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "3accf1dd8fbf6855",
+  "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
     "Lua/Lua与C的交互.md",
     "Lua/Lua虚拟机 （nil）.md",
