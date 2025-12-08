@@ -131,14 +131,12 @@
             "id": "b71b8ccccbe9f411",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "渲染/动态批处理.md",
-                "mode": "source",
-                "source": false
+                "file": "渲染/渲染流程图.png"
               },
-              "icon": "lucide-file",
-              "title": "动态批处理"
+              "icon": "lucide-image",
+              "title": "渲染流程图"
             }
           }
         ],
@@ -244,12 +242,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/动态批处理.md",
+                "file": "渲染/渲染流程图.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "动态批处理 的出链列表"
+              "title": "渲染流程图 的出链列表"
             }
           },
           {
@@ -337,6 +335,7 @@
   },
   "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
+    "渲染/动态批处理.md",
     "渲染/点乘&叉乘.md",
     "渲染/GPU Instancing/Untitled 2.png",
     "渲染/GPU Instancing/Untitled 1.png",
