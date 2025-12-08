@@ -300,6 +300,9 @@
   },
   "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
+    "C#/EventHandler.md",
+    "C#/GC.SuppressFinalize.md",
+    "C#/C# GC.md",
     "C#/C#.md",
     "Lua/Lua与C的交互.md",
     "Lua/Lua虚拟机 （nil）.md",
@@ -325,7 +328,6 @@
     "渲染/SRP Batcher.md",
     "Pasted image 20250108220843.png",
     "Pasted image 20250108220142.png",
-    "C#/GC.SuppressFinalize.md",
     "Unity/纹理压缩.md",
     "Unity/代码编译 Mono IL2CPP.md",
     "Python/基本语法/Untitled.png",
@@ -334,8 +336,6 @@
     "Unity/Assembly definitions（程序集定义）.md",
     "Unity/UGUI.md",
     "Unity/移动端优化.md",
-    "C#/C# GC.md",
-    "学习网址.md",
     "GameFramework"
   ]
 }
