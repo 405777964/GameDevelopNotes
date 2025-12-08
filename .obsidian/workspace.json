@@ -133,12 +133,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lua GC"
+              "title": "Lua String"
             }
           }
         ],
@@ -244,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lua GC 的出链列表"
+              "title": "Lua String 的出链列表"
             }
           },
           {
@@ -300,13 +300,13 @@
   },
   "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
+    "Lua/Lua GC.md",
     "Lua/Lua 元表和元方法.md",
     "Lua/Lua 闭包.md",
     "Lua/16 编译、执行和错误.md",
     "Lua/模块与包.md",
     "Lua/数据结构.md",
     "Lua/Lua String.md",
-    "Lua/Lua GC.md",
     "Lua/Lua与C的交互.md",
     "Lua/Lua WIKI.md",
     "Lua/Lua虚拟机 （nil）.md",
