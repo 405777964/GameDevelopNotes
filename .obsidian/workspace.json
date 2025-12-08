@@ -338,6 +338,7 @@
   "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
     "渲染/GPU Instancing/Untitled 2.png",
+    "渲染/点乘&叉乘.md",
     "渲染/GPU Instancing/Untitled 1.png",
     "渲染/GPU Instancing/Untitled.png",
     "渲染/静态批处理/静态批处理原理.png",
@@ -376,7 +377,6 @@
     "Unity/Unity内存优化.md",
     "Unity/Unity内存原理.md",
     "Unity/Assembly definitions（程序集定义）.md",
-    "Unity/UGUI.md",
     "GameFramework"
   ]
 }
