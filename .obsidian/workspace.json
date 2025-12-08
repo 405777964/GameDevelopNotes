@@ -131,12 +131,14 @@
             "id": "b71b8ccccbe9f411",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "渲染/动态批处理/动态批处理流程图.png"
+                "file": "渲染/点乘&叉乘.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "动态批处理流程图"
+              "icon": "lucide-file",
+              "title": "点乘&叉乘"
             }
           }
         ],
@@ -242,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/动态批处理/动态批处理流程图.png",
+                "file": "渲染/点乘&叉乘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "动态批处理流程图 的出链列表"
+              "title": "点乘&叉乘 的出链列表"
             }
           },
           {
@@ -333,8 +335,14 @@
       }
     ]
   },
-  "active": "433100d0c9a6adaf",
+  "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
+    "渲染/GPU Instancing/Untitled 2.png",
+    "渲染/GPU Instancing/Untitled 1.png",
+    "渲染/GPU Instancing/Untitled.png",
+    "渲染/静态批处理/静态批处理原理.png",
+    "渲染/静态批处理/静态批处理流程图.png",
+    "渲染/动态批处理/动态批处理流程图.png",
     "C#/C# GC.md",
     "C#/EventHandler.md",
     "C#/GC.SuppressFinalize.md",
@@ -359,7 +367,6 @@
     "未命名.canvas",
     "渲染/深度测试 Depth Testing.md",
     "渲染/GPU Instancing.md",
-    "渲染/GPU Instancing/Untitled.png",
     "渲染/SRP Batcher.md",
     "Pasted image 20250108220843.png",
     "Pasted image 20250108220142.png",
@@ -370,7 +377,6 @@
     "Unity/Unity内存原理.md",
     "Unity/Assembly definitions（程序集定义）.md",
     "Unity/UGUI.md",
-    "Unity/移动端优化.md",
     "GameFramework"
   ]
 }
