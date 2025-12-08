@@ -131,14 +131,12 @@
             "id": "b71b8ccccbe9f411",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "C#/C# GC.md",
-                "mode": "source",
-                "source": false
+                "file": "渲染/动态批处理/动态批处理流程图.png"
               },
-              "icon": "lucide-file",
-              "title": "C# GC"
+              "icon": "lucide-image",
+              "title": "动态批处理流程图"
             }
           }
         ],
@@ -244,12 +242,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/C# GC.md",
+                "file": "渲染/动态批处理/动态批处理流程图.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "C# GC 的出链列表"
+              "title": "动态批处理流程图 的出链列表"
             }
           },
           {
@@ -298,11 +296,48 @@
       "publish:发布更改": false
     }
   },
-  "active": "b71b8ccccbe9f411",
+  "floating": {
+    "id": "c7a2012a5bbbbbcd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7a28ddfcc6271d3a",
+        "type": "window",
+        "children": [
+          {
+            "id": "2f7575f8e20a0fe9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "433100d0c9a6adaf",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "渲染/动态批处理/动态批处理流程图.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "动态批处理流程图"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 179,
+        "y": 0,
+        "width": 1025,
+        "height": 753,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "433100d0c9a6adaf",
   "lastOpenFiles": [
+    "C#/C# GC.md",
     "C#/EventHandler.md",
     "C#/GC.SuppressFinalize.md",
-    "C#/C# GC.md",
     "C#/C#.md",
     "Lua/Lua与C的交互.md",
     "Lua/Lua虚拟机 （nil）.md",
