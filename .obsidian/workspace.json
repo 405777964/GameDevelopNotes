@@ -242,12 +242,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/渲染流程图.png",
+                "file": "渲染/动态批处理/动态批处理流程图.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "渲染流程图 的出链列表"
+              "title": "动态批处理流程图 的出链列表"
             }
           },
           {
@@ -320,7 +320,8 @@
                   "title": "动态批处理流程图"
                 }
               }
-            ]
+            ],
+            "stacked": true
           }
         ],
         "direction": "vertical",
@@ -333,8 +334,10 @@
       }
     ]
   },
-  "active": "b71b8ccccbe9f411",
+  "active": "433100d0c9a6adaf",
   "lastOpenFiles": [
+    "渲染/渲染流程图.png",
+    "渲染/动态批处理/动态批处理流程图.png",
     "渲染/动态批处理.md",
     "渲染/点乘&叉乘.md",
     "渲染/GPU Instancing/Untitled 2.png",
@@ -342,7 +345,6 @@
     "渲染/GPU Instancing/Untitled.png",
     "渲染/静态批处理/静态批处理原理.png",
     "渲染/静态批处理/静态批处理流程图.png",
-    "渲染/动态批处理/动态批处理流程图.png",
     "C#/C# GC.md",
     "C#/EventHandler.md",
     "C#/GC.SuppressFinalize.md",
@@ -375,7 +377,6 @@
     "Python/基本语法/Untitled.png",
     "Unity/Unity内存优化.md",
     "Unity/Unity内存原理.md",
-    "Unity/Assembly definitions（程序集定义）.md",
     "GameFramework"
   ]
 }
