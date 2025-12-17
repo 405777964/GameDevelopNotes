@@ -131,12 +131,14 @@
             "id": "b71b8ccccbe9f411",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "渲染/渲染流程图.png"
+                "file": "渲染/深度测试 Depth Testing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "渲染流程图"
+              "icon": "lucide-file",
+              "title": "深度测试 Depth Testing"
             }
           }
         ],
@@ -242,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/动态批处理/动态批处理流程图.png",
+                "file": "渲染/深度测试 Depth Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "动态批处理流程图 的出链列表"
+              "title": "深度测试 Depth Testing 的出链列表"
             }
           },
           {
@@ -329,13 +331,16 @@
         "y": 0,
         "width": 1329,
         "height": 753,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "433100d0c9a6adaf",
+  "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
+    "渲染/GPU Instancing.md",
+    "渲染/阴影映射 Shadow Mapping.md",
+    "渲染/延迟着色法 Deferred Shading.md",
     "渲染/渲染流程图.png",
     "渲染/动态批处理/动态批处理流程图.png",
     "渲染/动态批处理.md",
@@ -368,7 +373,6 @@
     "未命名 1.canvas",
     "未命名.canvas",
     "渲染/深度测试 Depth Testing.md",
-    "渲染/GPU Instancing.md",
     "渲染/SRP Batcher.md",
     "Pasted image 20250108220843.png",
     "Pasted image 20250108220142.png",
@@ -376,7 +380,6 @@
     "Unity/代码编译 Mono IL2CPP.md",
     "Python/基本语法/Untitled.png",
     "Unity/Unity内存优化.md",
-    "Unity/Unity内存原理.md",
     "GameFramework"
   ]
 }
