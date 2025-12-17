@@ -133,12 +133,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/深度测试 Depth Testing.md",
+                "file": "渲染/模板测试 Stencil Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "深度测试 Depth Testing"
+              "title": "模板测试 Stencil Testing"
             }
           }
         ],
@@ -244,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/深度测试 Depth Testing.md",
+                "file": "渲染/模板测试 Stencil Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "深度测试 Depth Testing 的出链列表"
+              "title": "模板测试 Stencil Testing 的出链列表"
             }
           },
           {
@@ -338,6 +338,7 @@
   },
   "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
+    "渲染/深度测试 Depth Testing.md",
     "渲染/GPU Instancing.md",
     "渲染/阴影映射 Shadow Mapping.md",
     "渲染/延迟着色法 Deferred Shading.md",
@@ -372,7 +373,6 @@
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
-    "渲染/深度测试 Depth Testing.md",
     "渲染/SRP Batcher.md",
     "Pasted image 20250108220843.png",
     "Pasted image 20250108220142.png",
