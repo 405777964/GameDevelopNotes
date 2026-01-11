@@ -133,12 +133,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法&数据结构/二叉树.md",
+                "file": "渲染/点乘&叉乘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二叉树"
+              "title": "点乘&叉乘"
             }
           }
         ],
@@ -244,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法&数据结构/二叉树.md",
+                "file": "渲染/点乘&叉乘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "二叉树 的出链列表"
+              "title": "点乘&叉乘 的出链列表"
             }
           },
           {
@@ -300,8 +300,11 @@
   },
   "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
-    "渲染/模板测试 Stencil Testing.md",
     "渲染/动态批处理/动态批处理流程图.png",
+    "算法&数据结构/快速排序.md",
+    "算法&数据结构/排序算法.md",
+    "算法&数据结构/二叉树.md",
+    "渲染/模板测试 Stencil Testing.md",
     "渲染/深度测试 Depth Testing.md",
     "渲染/GPU Instancing.md",
     "渲染/阴影映射 Shadow Mapping.md",
@@ -335,11 +338,8 @@
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
-    "渲染/SRP Batcher.md",
     "Pasted image 20250108220843.png",
     "Pasted image 20250108220142.png",
-    "Unity/纹理压缩.md",
-    "Unity/代码编译 Mono IL2CPP.md",
     "Python/基本语法/Untitled.png",
     "GameFramework"
   ]
