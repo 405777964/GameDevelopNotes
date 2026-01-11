@@ -133,12 +133,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/模板测试 Stencil Testing.md",
+                "file": "算法&数据结构/二叉树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模板测试 Stencil Testing"
+              "title": "二叉树"
             }
           }
         ],
@@ -244,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/模板测试 Stencil Testing.md",
+                "file": "算法&数据结构/二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "模板测试 Stencil Testing 的出链列表"
+              "title": "二叉树 的出链列表"
             }
           },
           {
@@ -298,52 +298,15 @@
       "publish:发布更改": false
     }
   },
-  "floating": {
-    "id": "c7a2012a5bbbbbcd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7a28ddfcc6271d3a",
-        "type": "window",
-        "children": [
-          {
-            "id": "2f7575f8e20a0fe9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "433100d0c9a6adaf",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "渲染/动态批处理/动态批处理流程图.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "动态批处理流程图"
-                }
-              }
-            ],
-            "stacked": true
-          }
-        ],
-        "direction": "vertical",
-        "x": 57,
-        "y": 0,
-        "width": 1329,
-        "height": 753,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
+    "渲染/模板测试 Stencil Testing.md",
+    "渲染/动态批处理/动态批处理流程图.png",
     "渲染/深度测试 Depth Testing.md",
     "渲染/GPU Instancing.md",
     "渲染/阴影映射 Shadow Mapping.md",
     "渲染/延迟着色法 Deferred Shading.md",
     "渲染/渲染流程图.png",
-    "渲染/动态批处理/动态批处理流程图.png",
     "渲染/动态批处理.md",
     "渲染/点乘&叉乘.md",
     "渲染/GPU Instancing/Untitled 2.png",
@@ -366,7 +329,6 @@
     "Lua/16 编译、执行和错误.md",
     "Lua/模块与包.md",
     "Lua/数据结构.md",
-    "渲染/模板测试 Stencil Testing.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 3.canvas",
@@ -379,7 +341,6 @@
     "Unity/纹理压缩.md",
     "Unity/代码编译 Mono IL2CPP.md",
     "Python/基本语法/Untitled.png",
-    "Unity/Unity内存优化.md",
     "GameFramework"
   ]
 }
