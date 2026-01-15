@@ -133,12 +133,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/热更新/AssetBundle.md",
+                "file": "Unity/协程 Coroutine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AssetBundle"
+              "title": "协程 Coroutine"
             }
           }
         ],
@@ -244,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/热更新/AssetBundle.md",
+                "file": "Unity/协程 Coroutine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "AssetBundle 的出链列表"
+              "title": "协程 Coroutine 的出链列表"
             }
           },
           {
@@ -300,6 +300,8 @@
   },
   "active": "b71b8ccccbe9f411",
   "lastOpenFiles": [
+    "Unity/热更新/AssetBundle.md",
+    "Unity/协程 Coroutine.md",
     "渲染/SRP Batcher.md",
     "渲染/GPU Instancing.md",
     "渲染/动态批处理.md",
@@ -331,8 +333,6 @@
     "Lua/Lua 元表和元方法.md",
     "Lua/Lua 闭包.md",
     "Lua/16 编译、执行和错误.md",
-    "Lua/模块与包.md",
-    "Lua/数据结构.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 3.canvas",
