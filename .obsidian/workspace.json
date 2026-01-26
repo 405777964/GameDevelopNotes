@@ -147,12 +147,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/GPU Instancing.md",
+                "file": "渲染/渲染流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPU Instancing"
+              "title": "渲染流程"
             }
           }
         ],
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/GPU Instancing.md",
+                "file": "渲染/渲染流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "GPU Instancing 的出链列表"
+              "title": "渲染流程 的出链列表"
             }
           },
           {
@@ -314,6 +314,8 @@
   },
   "active": "6e4669cdadb43542",
   "lastOpenFiles": [
+    "渲染/渲染流程图.png",
+    "渲染/GPU Instancing.md",
     "Pasted image 20260126204908.png",
     "Pasted image 20260126204315.png",
     "Pasted image 20260126204045.png",
@@ -328,7 +330,6 @@
     "Unity/协程 Coroutine.md",
     "Unity/热更新/AssetBundle.md",
     "渲染/SRP Batcher.md",
-    "渲染/GPU Instancing.md",
     "渲染/动态批处理.md",
     "渲染/点乘&叉乘.md",
     "渲染/动态批处理/动态批处理流程图.png",
@@ -339,8 +340,6 @@
     "渲染/深度测试 Depth Testing.md",
     "渲染/阴影映射 Shadow Mapping.md",
     "渲染/延迟着色法 Deferred Shading.md",
-    "渲染/渲染流程图.png",
-    "渲染/GPU Instancing/Untitled 2.png",
     "C#/EventHandler.md",
     "C#/GC.SuppressFinalize.md",
     "C#/C#.md",
