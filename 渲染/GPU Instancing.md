@@ -21,7 +21,8 @@ GPU 实例化可以降低每个场景使用的绘制调用数量。可以显著�
 
 ![GPU%20Instancing%20%EF%BC%88GPU%E5%AE%9E%E4%BE%8B%E5%8C%96%EF%BC%89%20832f70422ceb4fffbacf34bd7b4411cd/Untitled%202.png](渲染/GPU%20Instancing/Untitled%202.png)
 如果需要改变颜色之类的参数
-不要直接zai
+不要直接在材质球里改动，这样会生成一个新的材质球，导致无法合批。
+可以使用SetPropertyBlock，它是 Unity 中实现**GPU Instancing 实例专属参数**的关键 API，能让同一材质的不同实例拥有独立的参数（如颜色、纹理、矩阵），同时不破坏 Instancing 批量渲染的特性。
 ### 限制
 - Unity 自动选取要实例化的网格渲染器组件和`Graphics.DrawMesh` 调用。请注意，**不支持 `SkinnedMeshRenderer`**。
 - Unity 仅在单个 GPU 实例化绘制调用中批量处理那些共享相同网格和相同材质的游戏对象。**使用少量网格和材质可以提高实例化效率**。要创建变体，请修改着色器脚本为每个实例添加数据
