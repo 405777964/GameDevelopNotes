@@ -9,6 +9,7 @@ GPU 实例化可以降低每个场景使用的绘制调用数量。可以显著�
 除了添加multi_compile_instanceing关键字来开启GPU Instancing，也要在传输数据给顶点着色器的时候把它的INSTANCE_ID传过去，不然他们会用使用该批次中的第一个物体的变换矩阵，导致这批的物体的位置都一样了。
 ![[Pasted image 20260126195017.png]]
 让 GPU 能通过这个 ID，从「实例化缓冲区（Instance Buffer）」中精准读取当前实例的专属数据（如世界矩阵、颜色、自定义参数）。
+每一批能处理的数量大小取决于缓冲区的最大容量
 
 ![GPU%20Instancing%20%EF%BC%88GPU%E5%AE%9E%E4%BE%8B%E5%8C%96%EF%BC%89%20832f70422ceb4fffbacf34bd7b4411cd/Untitled.png](渲染/GPU%20Instancing/Untitled.png)
 
