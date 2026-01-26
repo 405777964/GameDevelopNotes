@@ -26,7 +26,9 @@ GPU 实例化可以降低每个场景使用的绘制调用数量。可以显著�
 这些参数会被传入 Shader 的实例化缓冲区，让 GPU 能区分不同实例的参数。
 ![[Pasted image 20260126200558.png]]
 我们需要开辟一块实例缓冲区，定义需要用到的属性的名字
-
+![[Pasted image 20260126204018.png]]
+![[Pasted image 20260126204045.png]]
+把对应的INSTANCE_ID也传入片元着色器
 
 ### 限制
 - Unity 自动选取要实例化的网格渲染器组件和`Graphics.DrawMesh` 调用。请注意，**不支持 `SkinnedMeshRenderer`**。
