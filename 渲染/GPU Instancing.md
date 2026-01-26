@@ -54,5 +54,6 @@ GPU Skining分别两部分
 - 通过离线采样过程，把对应骨骼信息和动画矩阵烘培在一张Texture上。
 - 通过运行蒙皮过程，通过Shader实时计算顶点坐标。
 
+https://catlikecoding.com/unity/tutorials/rendering/part-19/
 [GPU 实例化 - Unity 手册](http://docs.unity3d.com/cn/current/Manual/GPUInstancing.html)
 [GPU Skinning](https://www.cnblogs.com/smallrainf/p/11746909.html)
