@@ -5,7 +5,7 @@ GPU 实例化在每次绘制调用时仅渲染相同的网格，但每个实例�
 
 GPU 实例化可以降低每个场景使用的绘制调用数量。可以显著提高项目的渲染性能。
 ![[Pasted image 20260126194334.png]]
-
+![[Pasted image 20260126194553.png]]
 ![GPU%20Instancing%20%EF%BC%88GPU%E5%AE%9E%E4%BE%8B%E5%8C%96%EF%BC%89%20832f70422ceb4fffbacf34bd7b4411cd/Untitled.png](渲染/GPU%20Instancing/Untitled.png)
 
 未勾选Enable Instancing
