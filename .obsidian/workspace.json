@@ -147,12 +147,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Lua与C的交互.md",
+                "file": "Unity/热更新/AssetBundle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lua与C的交互"
+              "title": "AssetBundle"
             }
           }
         ],
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua与C的交互.md",
+                "file": "Unity/热更新/AssetBundle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lua与C的交互 的出链列表"
+              "title": "AssetBundle 的出链列表"
             }
           },
           {
@@ -314,6 +314,11 @@
   },
   "active": "6e4669cdadb43542",
   "lastOpenFiles": [
+    "Lua/Lua与C的交互.md",
+    "Lua/数据结构.md",
+    "Lua/模块与包.md",
+    "Lua/16 编译、执行和错误.md",
+    "Lua/Lua 闭包.md",
     "Lua/Lua Table.md",
     "Lua/Lua String.md",
     "Lua/Lua GC.md",
@@ -329,8 +334,6 @@
     "Pasted image 20260126195017.png",
     "Pasted image 20260126194553.png",
     "Pasted image 20260126194334.png",
-    "Lua/模块与包.md",
-    "Lua/16 编译、执行和错误.md",
     "C#/C# GC.md",
     "Unity/协程 Coroutine.md",
     "Unity/热更新/AssetBundle.md",
@@ -347,9 +350,6 @@
     "C#/EventHandler.md",
     "C#/GC.SuppressFinalize.md",
     "C#/C#.md",
-    "Lua/Lua与C的交互.md",
-    "Lua/Lua虚拟机 （nil）.md",
-    "Lua/Lua WIKI.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 3.canvas",
