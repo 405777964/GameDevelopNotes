@@ -147,12 +147,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lua GC"
+              "title": "Lua Table"
             }
           }
         ],
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua GC.md",
+                "file": "Lua/Lua Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lua GC 的出链列表"
+              "title": "Lua Table 的出链列表"
             }
           },
           {
@@ -314,6 +314,8 @@
   },
   "active": "6e4669cdadb43542",
   "lastOpenFiles": [
+    "Lua/Lua String.md",
+    "Lua/Lua GC.md",
     "渲染/SRP Batcher.md",
     "渲染/渲染流程.md",
     "渲染/渲染流程图.png",
@@ -348,8 +350,6 @@
     "Lua/Lua虚拟机 （nil）.md",
     "Lua/Lua Table.md",
     "Lua/Lua WIKI.md",
-    "Lua/Lua String.md",
-    "Lua/Lua GC.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 3.canvas",
