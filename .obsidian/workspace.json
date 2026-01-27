@@ -147,12 +147,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/热更新/AssetBundle.md",
+                "file": "C#/C# GC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AssetBundle"
+              "title": "C# GC"
             }
           }
         ],
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/热更新/AssetBundle.md",
+                "file": "C#/C# GC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "AssetBundle 的出链列表"
+              "title": "C# GC 的出链列表"
             }
           },
           {
@@ -314,6 +314,11 @@
   },
   "active": "6e4669cdadb43542",
   "lastOpenFiles": [
+    "C#/C#.md",
+    "Unity/Unity内存原理.md",
+    "Unity/Unity内存优化.md",
+    "Unity/代码编译 Mono IL2CPP.md",
+    "Unity/热更新/AssetBundle.md",
     "Lua/Lua与C的交互.md",
     "Lua/数据结构.md",
     "Lua/模块与包.md",
@@ -336,7 +341,6 @@
     "Pasted image 20260126194334.png",
     "C#/C# GC.md",
     "Unity/协程 Coroutine.md",
-    "Unity/热更新/AssetBundle.md",
     "渲染/动态批处理.md",
     "渲染/点乘&叉乘.md",
     "渲染/动态批处理/动态批处理流程图.png",
@@ -346,10 +350,6 @@
     "渲染/模板测试 Stencil Testing.md",
     "渲染/深度测试 Depth Testing.md",
     "渲染/阴影映射 Shadow Mapping.md",
-    "渲染/延迟着色法 Deferred Shading.md",
-    "C#/EventHandler.md",
-    "C#/GC.SuppressFinalize.md",
-    "C#/C#.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 3.canvas",
