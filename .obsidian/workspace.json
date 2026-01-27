@@ -147,12 +147,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/静态批处理.md",
+                "file": "渲染/A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "静态批处理"
+              "title": "A"
             }
           }
         ],
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/静态批处理.md",
+                "file": "渲染/A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "静态批处理 的出链列表"
+              "title": "A 的出链列表"
             }
           },
           {
@@ -314,6 +314,8 @@
   },
   "active": "6e4669cdadb43542",
   "lastOpenFiles": [
+    "渲染/静态批处理.md",
+    "渲染/A.md",
     "渲染/模板测试 Stencil Testing.md",
     "Unity/热更新/HybridCLR.md",
     "C#/C# GC.md",
@@ -348,8 +350,6 @@
     "渲染/动态批处理/动态批处理流程图.png",
     "算法&数据结构/快速排序.md",
     "算法&数据结构/排序算法.md",
-    "算法&数据结构/二叉树.md",
-    "渲染/深度测试 Depth Testing.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 3.canvas",
