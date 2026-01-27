@@ -147,12 +147,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/A.md",
+                "file": "渲染/VAT 顶点动画纹理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A"
+              "title": "VAT 顶点动画纹理"
             }
           }
         ],
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/A.md",
+                "file": "渲染/VAT 顶点动画纹理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "A 的出链列表"
+              "title": "VAT 顶点动画纹理 的出链列表"
             }
           },
           {
@@ -315,7 +315,7 @@
   "active": "6e4669cdadb43542",
   "lastOpenFiles": [
     "渲染/静态批处理.md",
-    "渲染/A.md",
+    "渲染/VAT 顶点动画纹理.md",
     "渲染/模板测试 Stencil Testing.md",
     "Unity/热更新/HybridCLR.md",
     "C#/C# GC.md",
