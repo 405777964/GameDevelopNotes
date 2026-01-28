@@ -145,14 +145,12 @@
             "id": "6e4669cdadb43542",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "渲染/GPU Skinning.md",
-                "mode": "source",
-                "source": false
+                "file": "渲染/GPU Instancing/Untitled 2.png"
               },
-              "icon": "lucide-file",
-              "title": "GPU Skinning"
+              "icon": "lucide-image",
+              "title": "Untitled 2"
             }
           }
         ],
@@ -258,12 +256,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/GPU Skinning.md",
+                "file": "渲染/GPU Instancing/Untitled 2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "GPU Skinning 的出链列表"
+              "title": "Untitled 2 的出链列表"
             }
           },
           {
@@ -314,8 +312,10 @@
   },
   "active": "6e4669cdadb43542",
   "lastOpenFiles": [
-    "渲染/顶点动画纹理 Vertex Animation Texture.md",
+    "渲染/GPU Instancing/Untitled 1.png",
+    "渲染/GPU Instancing/Untitled.png",
     "渲染/GPU Skinning.md",
+    "渲染/顶点动画纹理 Vertex Animation Texture.md",
     "渲染/动态批处理/动态批处理流程图.png",
     "渲染/静态批处理/静态批处理流程图.png",
     "渲染/静态批处理/静态批处理原理.png",
@@ -345,11 +345,9 @@
     "Pasted image 20260126204045.png",
     "Pasted image 20260126204018.png",
     "Pasted image 20260126200558.png",
-    "Pasted image 20260126195017.png",
     "Unity/协程 Coroutine.md",
     "渲染/动态批处理.md",
     "渲染/点乘&叉乘.md",
-    "算法&数据结构/快速排序.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 3.canvas",
