@@ -147,12 +147,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/顶点动画纹理 Vertex Animation Texture.md",
+                "file": "渲染/GPU Skinning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "顶点动画纹理 Vertex Animation Texture"
+              "title": "GPU Skinning"
             }
           }
         ],
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/顶点动画纹理 Vertex Animation Texture.md",
+                "file": "渲染/GPU Skinning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "顶点动画纹理 Vertex Animation Texture 的出链列表"
+              "title": "GPU Skinning 的出链列表"
             }
           },
           {
@@ -314,10 +314,11 @@
   },
   "active": "6e4669cdadb43542",
   "lastOpenFiles": [
+    "渲染/顶点动画纹理 Vertex Animation Texture.md",
+    "渲染/GPU Skinning.md",
     "渲染/动态批处理/动态批处理流程图.png",
     "渲染/静态批处理/静态批处理流程图.png",
     "渲染/静态批处理/静态批处理原理.png",
-    "渲染/顶点动画纹理 Vertex Animation Texture.md",
     "渲染/静态批处理.md",
     "渲染/模板测试 Stencil Testing.md",
     "Unity/热更新/HybridCLR.md",
@@ -345,7 +346,6 @@
     "Pasted image 20260126204018.png",
     "Pasted image 20260126200558.png",
     "Pasted image 20260126195017.png",
-    "Pasted image 20260126194553.png",
     "Unity/协程 Coroutine.md",
     "渲染/动态批处理.md",
     "渲染/点乘&叉乘.md",
