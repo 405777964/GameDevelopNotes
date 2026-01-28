@@ -145,12 +145,14 @@
             "id": "6e4669cdadb43542",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "渲染/GPU Instancing/Untitled 2.png"
+                "file": "渲染/GPU Skinning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Untitled 2"
+              "icon": "lucide-file",
+              "title": "GPU Skinning"
             }
           }
         ],
@@ -256,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/GPU Instancing/Untitled 2.png",
+                "file": "渲染/GPU Skinning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Untitled 2 的出链列表"
+              "title": "GPU Skinning 的出链列表"
             }
           },
           {
@@ -312,6 +314,8 @@
   },
   "active": "6e4669cdadb43542",
   "lastOpenFiles": [
+    "渲染/GPU Instancing.md",
+    "渲染/GPU Instancing/Untitled 2.png",
     "渲染/GPU Instancing/Untitled 1.png",
     "渲染/GPU Instancing/Untitled.png",
     "渲染/GPU Skinning.md",
@@ -339,12 +343,9 @@
     "渲染/SRP Batcher.md",
     "渲染/渲染流程.md",
     "渲染/渲染流程图.png",
-    "渲染/GPU Instancing.md",
     "Pasted image 20260126204908.png",
     "Pasted image 20260126204315.png",
     "Pasted image 20260126204045.png",
-    "Pasted image 20260126204018.png",
-    "Pasted image 20260126200558.png",
     "Unity/协程 Coroutine.md",
     "渲染/动态批处理.md",
     "渲染/点乘&叉乘.md",
