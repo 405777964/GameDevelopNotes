@@ -147,12 +147,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/SRP Batcher.md",
+                "file": "渲染/动态批处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SRP Batcher"
+              "title": "动态批处理"
             }
           }
         ],
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/SRP Batcher.md",
+                "file": "渲染/动态批处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "SRP Batcher 的出链列表"
+              "title": "动态批处理 的出链列表"
             }
           },
           {
@@ -315,12 +315,13 @@
   "active": "6e4669cdadb43542",
   "lastOpenFiles": [
     "渲染/静态批处理.md",
+    "渲染/阴影映射 Shadow Mapping.md",
+    "渲染/GPU Instancing.md",
+    "渲染/GPU Skinning.md",
     "渲染/SRP Batcher.md",
     "渲染/URP.md",
     "Pasted image 20260128110300.png",
     "Pasted image 20260128110248.png",
-    "渲染/GPU Skinning.md",
-    "渲染/GPU Instancing.md",
     "渲染/GPU Instancing/Untitled 2.png",
     "渲染/GPU Instancing/Untitled 1.png",
     "渲染/GPU Instancing/Untitled.png",
