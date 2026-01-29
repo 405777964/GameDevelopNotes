@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/DOTS.md",
+                "file": "渲染/静态批处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOTS"
+              "title": "静态批处理"
             }
           },
           {
@@ -243,12 +243,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/DOTS.md",
+                "file": "渲染/静态批处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "DOTS 的出链列表"
+              "title": "静态批处理 的出链列表"
             }
           },
           {
@@ -299,11 +299,16 @@
   },
   "active": "6841284375aa788e",
   "lastOpenFiles": [
-    "C#/GC.SuppressFinalize.md",
+    "渲染/动态批处理.md",
+    "渲染/静态批处理/静态批处理原理.png",
+    "渲染/静态批处理/静态批处理流程图.png",
+    "渲染/顶点动画纹理 Vertex Animation Texture.md",
+    "渲染/点乘&叉乘.md",
+    "渲染/动态批处理/动态批处理流程图.png",
     "Unity/DOTS.md",
+    "C#/GC.SuppressFinalize.md",
     "C#/EventHandler.md",
     "C#/C# GC.md",
-    "渲染/动态批处理.md",
     "渲染/静态批处理.md",
     "渲染/阴影映射 Shadow Mapping.md",
     "渲染/GPU Instancing.md",
@@ -315,10 +320,6 @@
     "渲染/GPU Instancing/Untitled 2.png",
     "渲染/GPU Instancing/Untitled 1.png",
     "渲染/GPU Instancing/Untitled.png",
-    "渲染/顶点动画纹理 Vertex Animation Texture.md",
-    "渲染/动态批处理/动态批处理流程图.png",
-    "渲染/静态批处理/静态批处理流程图.png",
-    "渲染/静态批处理/静态批处理原理.png",
     "渲染/模板测试 Stencil Testing.md",
     "Unity/热更新/HybridCLR.md",
     "C#/C#.md",
@@ -331,8 +332,6 @@
     "Lua/模块与包.md",
     "Lua/16 编译、执行和错误.md",
     "Lua/Lua 闭包.md",
-    "Lua/Lua Table.md",
-    "Lua/Lua String.md",
     "渲染/渲染流程图.png",
     "Pasted image 20260126204908.png",
     "未命名 5.canvas",
