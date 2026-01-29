@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8483f6247a98055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C#/EventHandler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EventHandler"
-            }
-          },
-          {
             "id": "6841284375aa788e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/GC.SuppressFinalize.md",
+                "file": "Unity/DOTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GC.SuppressFinalize"
+              "title": "DOTS"
             }
           },
           {
@@ -155,8 +141,7 @@
               "title": "C# GC"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,12 +243,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/C# GC.md",
+                "file": "Unity/DOTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "C# GC 的出链列表"
+              "title": "DOTS 的出链列表"
             }
           },
           {
@@ -312,9 +297,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "6e4669cdadb43542",
+  "active": "6841284375aa788e",
   "lastOpenFiles": [
+    "C#/GC.SuppressFinalize.md",
+    "Unity/DOTS.md",
     "C#/EventHandler.md",
+    "C#/C# GC.md",
     "渲染/动态批处理.md",
     "渲染/静态批处理.md",
     "渲染/阴影映射 Shadow Mapping.md",
@@ -333,7 +321,6 @@
     "渲染/静态批处理/静态批处理原理.png",
     "渲染/模板测试 Stencil Testing.md",
     "Unity/热更新/HybridCLR.md",
-    "C#/C# GC.md",
     "C#/C#.md",
     "Unity/Unity内存原理.md",
     "Unity/Unity内存优化.md",
@@ -346,8 +333,6 @@
     "Lua/Lua 闭包.md",
     "Lua/Lua Table.md",
     "Lua/Lua String.md",
-    "Lua/Lua GC.md",
-    "渲染/渲染流程.md",
     "渲染/渲染流程图.png",
     "Pasted image 20260126204908.png",
     "未命名 5.canvas",
