@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/URP.md",
+                "file": "寻路算法/A星算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "URP"
+              "title": "A星算法"
             }
           },
           {
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/URP.md",
+                "file": "寻路算法/A星算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "URP 的出链列表"
+              "title": "A星算法 的出链列表"
             }
           },
           {
@@ -314,6 +314,9 @@
   },
   "active": "3c47a44ac4785049",
   "lastOpenFiles": [
+    "渲染/URP.md",
+    "寻路算法/A星算法.md",
+    "寻路算法",
     "渲染/SRP Batcher.md",
     "渲染/GPU Skinning.md",
     "渲染/GPU Instancing.md",
@@ -339,8 +342,6 @@
     "Lua/Lua GC.md",
     "Lua/Lua 元表和元方法.md",
     "Lua/Lua 闭包.md",
-    "Lua/数据结构.md",
-    "Lua/模块与包.md",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image.png",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image 1.png",
     "渲染/静态批处理/静态批处理原理.png",
