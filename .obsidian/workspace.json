@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/GPU Instancing.md",
+                "file": "渲染/SRP Batcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPU Instancing"
+              "title": "SRP Batcher"
             }
           },
           {
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/GPU Instancing.md",
+                "file": "渲染/SRP Batcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "GPU Instancing 的出链列表"
+              "title": "SRP Batcher 的出链列表"
             }
           },
           {
@@ -314,6 +314,8 @@
   },
   "active": "3c47a44ac4785049",
   "lastOpenFiles": [
+    "渲染/GPU Skinning.md",
+    "渲染/GPU Instancing.md",
     "渲染/阴影映射 Shadow Mapping.md",
     "渲染/阴影.md",
     "渲染/延迟着色法 Deferred Shading.md",
@@ -341,8 +343,6 @@
     "Lua/16 编译、执行和错误.md",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image.png",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image 1.png",
-    "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交.md",
-    "OpenGL/Hello Triangle.md",
     "渲染/静态批处理/静态批处理原理.png",
     "渲染/静态批处理/静态批处理流程图.png",
     "渲染/动态批处理/动态批处理流程图.png",
