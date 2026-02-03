@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/C#.md",
+                "file": "C#/C# GC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C#"
+              "title": "C# GC"
             }
           },
           {
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/C#.md",
+                "file": "C#/C# GC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "C# 的出链列表"
+              "title": "C# GC 的出链列表"
             }
           },
           {
@@ -314,6 +314,7 @@
   },
   "active": "3c47a44ac4785049",
   "lastOpenFiles": [
+    "C#/C#.md",
     "Lua/Lua与C的交互.md",
     "Lua/Lua虚拟机 （nil）.md",
     "Lua/Lua WIKI.md",
@@ -325,7 +326,6 @@
     "Lua/数据结构.md",
     "Lua/模块与包.md",
     "Lua/16 编译、执行和错误.md",
-    "C#/C#.md",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image.png",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image 1.png",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交.md",
