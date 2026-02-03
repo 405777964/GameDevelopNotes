@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/纹理压缩.md",
+                "file": "Unity/协程 Coroutine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "纹理压缩"
+              "title": "协程 Coroutine"
             }
           },
           {
@@ -243,12 +243,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/纹理压缩.md",
+                "file": "Unity/协程 Coroutine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "纹理压缩 的出链列表"
+              "title": "协程 Coroutine 的出链列表"
             }
           },
           {
@@ -299,6 +299,7 @@
   },
   "active": "6841284375aa788e",
   "lastOpenFiles": [
+    "Unity/纹理压缩.md",
     "Unity/代码编译 Mono IL2CPP.md",
     "Unity/热更新/HybridCLR.md",
     "Unity/热更新/AssetBundle.md",
@@ -332,7 +333,6 @@
     "渲染/GPU Instancing/Untitled.png",
     "渲染/模板测试 Stencil Testing.md",
     "C#/C#.md",
-    "Lua/Lua与C的交互.md",
     "渲染/渲染流程图.png",
     "Pasted image 20260126204908.png",
     "未命名 5.canvas",
