@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/模块与包.md",
+                "file": "Lua/Lua 闭包.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模块与包"
+              "title": "Lua 闭包"
             }
           },
           {
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/模块与包.md",
+                "file": "Lua/Lua 闭包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "模块与包 的出链列表"
+              "title": "Lua 闭包 的出链列表"
             }
           },
           {
@@ -314,8 +314,11 @@
   },
   "active": "3c47a44ac4785049",
   "lastOpenFiles": [
-    "Lua/16 编译、执行和错误.md",
+    "Lua/Lua String.md",
+    "Lua/数据结构.md",
+    "Lua/Lua 闭包.md",
     "Lua/模块与包.md",
+    "Lua/16 编译、执行和错误.md",
     "C#/C#.md",
     "Lua/Lua与C的交互.md",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image.png",
@@ -336,12 +339,9 @@
     "Unity/热更新/AssetBundle.md",
     "深入了解计算机系统/第二章 信息的表示与处理.md",
     "Lua/Lua Table.md",
-    "Lua/Lua String.md",
     "渲染/顶点动画纹理 Vertex Animation Texture.md",
     "渲染/GPU Instancing.md",
     "渲染/阴影映射 Shadow Mapping.md",
-    "渲染/阴影.md",
-    "渲染/静态批处理.md",
     "渲染/静态批处理/静态批处理原理.png",
     "渲染/静态批处理/静态批处理流程图.png",
     "渲染/动态批处理/动态批处理流程图.png",
