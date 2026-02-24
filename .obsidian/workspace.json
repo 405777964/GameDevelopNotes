@@ -39,12 +39,14 @@
             "id": "89fee9216e022720",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Unity/JobSystem.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "icon": "lucide-file",
+              "title": "JobSystem"
             }
           },
           {
@@ -270,11 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unity/JobSystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "JobSystem 的出链列表"
             }
           },
           {
@@ -325,6 +328,8 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
+    "GameFramework/随记.md",
+    "Unity/JobSystem.md",
     "C#/C#.md",
     "Lua/Lua GC.md",
     "渲染/双网格系统.md",
@@ -332,7 +337,6 @@
     "渲染/GPU Instancing.md",
     "渲染/GPU Instancing/Untitled 1.png",
     "渲染/GPU Instancing/Untitled.png",
-    "GameFramework/随记.md",
     "寻路算法/A星算法.md",
     "渲染/URP.md",
     "寻路算法",
@@ -354,7 +358,6 @@
     "Lua/Lua与C的交互.md",
     "Lua/Lua虚拟机 （nil）.md",
     "Lua/Lua WIKI.md",
-    "Lua/Lua Table.md",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image.png",
     "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image 1.png",
     "渲染/静态批处理/静态批处理原理.png",
