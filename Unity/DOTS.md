@@ -9,5 +9,10 @@ https://docs.unity3d.com/Packages/com.unity.entities@1.2/manual/ecs-workflow-int
 
 ![[Pasted image 20260226231130.png]]
 
+
+一个创作组件，是 MonoBehaviour 组件，可以保留你可以从编辑器传递给 ECS 组件的数值。
+一个烘焙工具，将 ECS 组件附加到实体上，并用创作组件的值填充 ECS 组件。
+
+
 C# Burst
 提升速度5-100倍
