@@ -1,1 +1,2 @@
-IJ
+IJobParallelForTransform
+用于运行GameObject实例的并行转换
