@@ -7,5 +7,7 @@ ECS是什么
 |**System**|MonoBehaviour.Update() 等|SystemBase / ISystem，处理一组 Entity 的逻辑|可并行化、Burst 编译|
 https://docs.unity3d.com/Packages/com.unity.entities@1.2/manual/ecs-workflow-intro.html
 
+![[Pasted image 20260226231130.png]]
+
 C# Burst
 提升速度5-100倍
