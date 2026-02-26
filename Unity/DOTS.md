@@ -13,7 +13,7 @@ https://docs.unity3d.com/Packages/com.unity.entities@1.2/manual/ecs-workflow-int
 一个创作组件 Authoring，是 MonoBehaviour 组件，可以保留你可以从编辑器传递给 ECS 组件的数值。
 一个烘焙工具 Baker，将 ECS 组件附加到实体上，并用创作组件的值填充 ECS 组件。
 ![[Pasted image 20260226231608.png]]
-烘焙是离线完成的，在游戏运行前就已经完成了，所以System可以找到Spawner
+烘焙是离线完成的，在游戏运行前就已经完成了生成了一个包含Spawner组件的Entity，所以System可以找到Spawner
 
 System生成实体
 ![[Pasted image 20260226234620.png]]
