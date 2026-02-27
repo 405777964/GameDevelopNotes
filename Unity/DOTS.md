@@ -22,10 +22,11 @@ System生成实体
 共享组件
 清理组件
 
-
+![[Pasted image 20260227164553.png]]
 ![[Pasted image 20260227164446.png]]
-Exec
+Execute方法会查找同时拥有 `LocalTransform`、`PostTransformMatrix` 和 `RotationSpeed` 组件的实体，并为它们添加 `ExecuteIJobEntity` 组件。
 
+而
 
 C# Burst
 提升速度5-100倍
