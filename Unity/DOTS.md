@@ -27,6 +27,9 @@ System生成实体
 Execute方法会查找同时拥有 `LocalTransform`、`PostTransformMatrix` 和 `RotationSpeed` 组件的实体，并为它们添加 `ExecuteIJobEntity` 组件。
 
 而System里的RequireForUpdate会等到场景里存在ExecuteIJobEntity才执行，避免update空转
+- 当系统进入更新循环，对于设置了 `RequireForUpdate<ExecuteIJobEntity>();` 的 `RotationSystem`，在执行 `OnUpdate` 之前，框架并不会先去检查是否有 `ExecuteIJobEntity` 组件。而是直接进入 `OnUpdate` 方法。
+- 在 `OnUpdate` 方法中调度 `RotateAndScaleJob` 时，框架会立即根据 `RotateAndScaleJob` 的 `Execute` 方法参数确定查询条件，查找场景（包括子场景）中符合条件的实体，并为这些实体添加 `ExecuteIJobEntity` 组件。这个添加操作几乎是瞬间完成的，在同一更新周期内，紧接在调度之后。
+
 
 C# Burst
 提升速度5-100倍
