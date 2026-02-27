@@ -31,7 +31,7 @@ Execute方法会查找同时拥有 `LocalTransform`、`PostTransformMatrix` 和 
 - 在 `OnUpdate` 方法中调度 `RotateAndScaleJob` 时，框架会立即根据 `RotateAndScaleJob` 的 `Execute` 方法参数确定查询条件，查找场景（包括子场景）中符合条件的实体，并为这些实体添加 `ExecuteIJobEntity` 组件。这个添加操作几乎是瞬间完成的，在同一更新周期内，紧接在调度之后。
 
 
-
+![[Pasted image 20260227174002.png]]
 在 Unity ECS（Entity - Component - System）框架中，`IJobChunk` 和 `IJob` 是两种不同类型的作业，它们在功能、使用场景和性能特点等方面存在明显区别。
 
 ### 1. 数据处理方式
