@@ -17,5 +17,11 @@ https://docs.unity3d.com/Packages/com.unity.entities@1.2/manual/ecs-workflow-int
 
 System生成实体
 ![[Pasted image 20260226234620.png]]
+组件类型
+
+
+
+
+
 C# Burst
 提升速度5-100倍
