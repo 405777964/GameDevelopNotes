@@ -26,7 +26,7 @@ System生成实体
 ![[Pasted image 20260227164446.png]]
 Execute方法会查找同时拥有 `LocalTransform`、`PostTransformMatrix` 和 `RotationSpeed` 组件的实体，并为它们添加 `ExecuteIJobEntity` 组件。
 
-而
+而System里的RequireForUpdate会等到场景里存在ExecuteIJobEntity才执行，避免update空转
 
 C# Burst
 提升速度5-100倍
