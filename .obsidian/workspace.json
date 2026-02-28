@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/静态批处理.md",
+                "file": "渲染/深度测试 Depth Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "静态批处理"
+              "title": "深度测试 Depth Testing"
             }
           },
           {
@@ -272,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/静态批处理.md",
+                "file": "渲染/深度测试 Depth Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "静态批处理 的出链列表"
+              "title": "深度测试 Depth Testing 的出链列表"
             }
           },
           {
@@ -328,6 +328,10 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
+    "渲染/模板测试 Stencil Testing.md",
+    "渲染/深度测试 Depth Testing.md",
+    "渲染/双网格系统.md",
+    "渲染/静态批处理.md",
     "渲染/动态批处理.md",
     "渲染/顶点动画纹理 Vertex Animation Texture.md",
     "渲染/点乘&叉乘.md",
@@ -349,7 +353,6 @@
     "GameFramework/随记.md",
     "C#/C#.md",
     "Lua/Lua GC.md",
-    "渲染/双网格系统.md",
     "深入了解计算机系统/第一章 系统漫游.md",
     "渲染/GPU Instancing.md",
     "寻路算法/A星算法.md",
@@ -361,9 +364,6 @@
     "渲染/阴影.md",
     "渲染/延迟着色法 Deferred Shading.md",
     "渲染/渲染流程.md",
-    "渲染/深度测试 Depth Testing.md",
-    "渲染/模板测试 Stencil Testing.md",
-    "渲染/静态批处理.md",
     "C#/GC.SuppressFinalize.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
