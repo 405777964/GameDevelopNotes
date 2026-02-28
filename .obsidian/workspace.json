@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/GPU Instancing.md",
+                "file": "渲染/SRP Batcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPU Instancing"
+              "title": "SRP Batcher"
             }
           },
           {
@@ -272,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/GPU Instancing.md",
+                "file": "渲染/SRP Batcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "GPU Instancing 的出链列表"
+              "title": "SRP Batcher 的出链列表"
             }
           },
           {
