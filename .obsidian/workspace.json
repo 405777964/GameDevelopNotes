@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/C# GC.md",
+                "file": "Lua/Lua 元表和元方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C# GC"
+              "title": "Lua 元表和元方法"
             }
           },
           {
@@ -272,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/C# GC.md",
+                "file": "Lua/Lua 元表和元方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "C# GC 的出链列表"
+              "title": "Lua 元表和元方法 的出链列表"
             }
           },
           {
@@ -328,6 +328,12 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
+    "Lua/Lua 闭包.md",
+    "Lua/模块与包.md",
+    "Lua/16 编译、执行和错误.md",
+    "C#/GC.SuppressFinalize.md",
+    "C#/EventHandler.md",
+    "C#/C# GC.md",
     "C#/C#.md",
     "寻路算法/A星算法.md",
     "渲染/URP.md",
@@ -355,14 +361,9 @@
     "算法&数据结构/排序算法.md",
     "算法&数据结构/快速排序.md",
     "算法&数据结构/二叉树.md",
-    "Unity/DOTS.md",
     "Pasted image 20260227174002.png",
     "Pasted image 20260227164553.png",
     "Pasted image 20260227164446.png",
-    "Unity/JobSystem.md",
-    "GameFramework/随记.md",
-    "Lua/Lua GC.md",
-    "深入了解计算机系统/第一章 系统漫游.md",
     "寻路算法",
     "未命名 5.canvas",
     "未命名 4.canvas",
