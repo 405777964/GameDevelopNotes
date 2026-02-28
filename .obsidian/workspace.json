@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/URP.md",
+                "file": "C#/C#.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "URP"
+              "title": "C#"
             }
           },
           {
@@ -272,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/URP.md",
+                "file": "C#/C#.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "URP 的出链列表"
+              "title": "C# 的出链列表"
             }
           },
           {
@@ -328,8 +328,9 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
-    "渲染/SRP Batcher.md",
+    "寻路算法/A星算法.md",
     "渲染/URP.md",
+    "渲染/SRP Batcher.md",
     "渲染/GPU Skinning.md",
     "渲染/GPU Instancing.md",
     "渲染/阴影映射 Shadow Mapping.md",
@@ -362,7 +363,6 @@
     "C#/C#.md",
     "Lua/Lua GC.md",
     "深入了解计算机系统/第一章 系统漫游.md",
-    "寻路算法/A星算法.md",
     "寻路算法",
     "未命名 5.canvas",
     "未命名 4.canvas",
