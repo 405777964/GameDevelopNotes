@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Lua Table.md",
+                "file": "Lua/Lua WIKI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lua Table"
+              "title": "Lua WIKI"
             }
           },
           {
@@ -272,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua Table.md",
+                "file": "Lua/Lua WIKI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lua Table 的出链列表"
+              "title": "Lua WIKI 的出链列表"
             }
           },
           {
@@ -328,6 +328,10 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
+    "Lua/Lua Table.md",
+    "Lua/Lua WIKI.md",
+    "Lua/Lua虚拟机 （nil）.md",
+    "Lua/Lua与C的交互.md",
     "Lua/Lua String.md",
     "Lua/Lua GC.md",
     "Lua/Lua 元表和元方法.md",
@@ -351,10 +355,6 @@
     "渲染/双网格系统.md",
     "渲染/深度测试 Depth Testing.md",
     "渲染/模板测试 Stencil Testing.md",
-    "渲染/静态批处理.md",
-    "渲染/动态批处理.md",
-    "渲染/顶点动画纹理 Vertex Animation Texture.md",
-    "渲染/点乘&叉乘.md",
     "渲染/GPU Instancing/Untitled 2.png",
     "渲染/GPU Instancing/Untitled 1.png",
     "渲染/GPU Instancing/Untitled.png",
