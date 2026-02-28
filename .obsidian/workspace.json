@@ -39,14 +39,12 @@
             "id": "89fee9216e022720",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "算法&数据结构/排序算法.md",
-                "mode": "source",
-                "source": false
+                "file": "渲染/静态批处理/静态批处理原理.png"
               },
-              "icon": "lucide-file",
-              "title": "排序算法"
+              "icon": "lucide-image",
+              "title": "静态批处理原理"
             }
           },
           {
@@ -272,12 +270,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法&数据结构/排序算法.md",
+                "file": "渲染/静态批处理/静态批处理原理.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "排序算法 的出链列表"
+              "title": "静态批处理原理 的出链列表"
             }
           },
           {
@@ -328,6 +326,9 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
+    "渲染/静态批处理/静态批处理流程图.png",
+    "渲染/动态批处理/动态批处理流程图.png",
+    "算法&数据结构/排序算法.md",
     "算法&数据结构/快速排序.md",
     "算法&数据结构/二叉树.md",
     "Unity/DOTS.md",
@@ -362,9 +363,6 @@
     "渲染/动态批处理.md",
     "渲染/顶点动画纹理 Vertex Animation Texture.md",
     "C#/GC.SuppressFinalize.md",
-    "C#/EventHandler.md",
-    "C#/C# GC.md",
-    "My links/101 右手螺旋定则判断叉乘方向 叉乘判断是否在向量的左边右边，点是否在三角形内。 矩阵乘法（没有交 a8f0cef1f54541bb9b3253b42cad0699/PNG_image.png",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 3.canvas",
