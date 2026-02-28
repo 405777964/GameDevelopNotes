@@ -39,12 +39,14 @@
             "id": "89fee9216e022720",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "渲染/静态批处理/静态批处理原理.png"
+                "file": "渲染/点乘&叉乘.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "静态批处理原理"
+              "icon": "lucide-file",
+              "title": "点乘&叉乘"
             }
           },
           {
@@ -270,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/静态批处理/静态批处理原理.png",
+                "file": "渲染/点乘&叉乘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "静态批处理原理 的出链列表"
+              "title": "点乘&叉乘 的出链列表"
             }
           },
           {
@@ -326,6 +328,10 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
+    "渲染/GPU Instancing/Untitled 2.png",
+    "渲染/GPU Instancing/Untitled 1.png",
+    "渲染/GPU Instancing/Untitled.png",
+    "渲染/静态批处理/静态批处理原理.png",
     "渲染/静态批处理/静态批处理流程图.png",
     "渲染/动态批处理/动态批处理流程图.png",
     "算法&数据结构/排序算法.md",
@@ -337,7 +343,6 @@
     "Pasted image 20260227164446.png",
     "Pasted image 20260226234620.png",
     "Pasted image 20260226231608.png",
-    "Pasted image 20260226231130.png",
     "Unity/JobSystem.md",
     "GameFramework/随记.md",
     "C#/C#.md",
@@ -345,8 +350,6 @@
     "渲染/双网格系统.md",
     "深入了解计算机系统/第一章 系统漫游.md",
     "渲染/GPU Instancing.md",
-    "渲染/GPU Instancing/Untitled 1.png",
-    "渲染/GPU Instancing/Untitled.png",
     "寻路算法/A星算法.md",
     "渲染/URP.md",
     "寻路算法",
@@ -355,7 +358,6 @@
     "渲染/阴影映射 Shadow Mapping.md",
     "渲染/阴影.md",
     "渲染/延迟着色法 Deferred Shading.md",
-    "渲染/渲染流程图.png",
     "渲染/渲染流程.md",
     "渲染/深度测试 Depth Testing.md",
     "渲染/模板测试 Stencil Testing.md",
