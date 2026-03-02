@@ -39,12 +39,14 @@
             "id": "89fee9216e022720",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "渲染/渲染流程图.png"
+                "file": "渲染/SRP Batcher.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "渲染流程图"
+              "icon": "lucide-file",
+              "title": "SRP Batcher"
             }
           },
           {
@@ -270,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/渲染流程图.png",
+                "file": "渲染/SRP Batcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "渲染流程图 的出链列表"
+              "title": "SRP Batcher 的出链列表"
             }
           },
           {
@@ -326,8 +328,11 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
-    "渲染/渲染流程.md",
+    "渲染/GPU Skinning.md",
+    "渲染/SRP Batcher.md",
+    "渲染/GPU Instancing.md",
     "渲染/渲染流程图.png",
+    "渲染/渲染流程.md",
     "渲染/动态批处理.md",
     "渲染/顶点动画纹理 Vertex Animation Texture.md",
     "未命名.base",
@@ -351,9 +356,6 @@
     "Lua/Lua 元表和元方法.md",
     "Lua/Lua 闭包.md",
     "Lua/模块与包.md",
-    "Lua/16 编译、执行和错误.md",
-    "C#/GC.SuppressFinalize.md",
-    "C#/EventHandler.md",
     "渲染/GPU Instancing/Untitled 2.png",
     "渲染/GPU Instancing/Untitled 1.png",
     "渲染/GPU Instancing/Untitled.png",
