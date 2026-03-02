@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染/SRP Batcher.md",
+                "file": "渲染/顶点动画纹理 Vertex Animation Texture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SRP Batcher"
+              "title": "顶点动画纹理 Vertex Animation Texture"
             }
           },
           {
@@ -272,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/SRP Batcher.md",
+                "file": "渲染/顶点动画纹理 Vertex Animation Texture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "SRP Batcher 的出链列表"
+              "title": "顶点动画纹理 Vertex Animation Texture 的出链列表"
             }
           },
           {
