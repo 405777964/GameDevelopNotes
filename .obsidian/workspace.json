@@ -39,14 +39,13 @@
             "id": "89fee9216e022720",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Unity/热更新/AssetBundle.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "AssetBundle"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           },
           {
@@ -272,12 +271,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/热更新/AssetBundle.md",
+                "file": "未命名.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "AssetBundle 的出链列表"
+              "title": "未命名 的出链列表"
             }
           },
           {
@@ -328,6 +327,8 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
+    "Unity/热更新/AssetBundle.md",
+    "未命名.base",
     "Unity/Unity内存原理.md",
     "Unity/Unity内存优化.md",
     "Unity/UGUI.md",
@@ -353,7 +354,6 @@
     "C#/C# GC.md",
     "C#/C#.md",
     "寻路算法/A星算法.md",
-    "渲染/URP.md",
     "渲染/渲染流程图.png",
     "渲染/GPU Instancing/Untitled 2.png",
     "渲染/GPU Instancing/Untitled 1.png",
