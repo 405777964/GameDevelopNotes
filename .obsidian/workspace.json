@@ -39,13 +39,12 @@
             "id": "89fee9216e022720",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "image",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "渲染/渲染流程图.png"
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-image",
+              "title": "渲染流程图"
             }
           },
           {
@@ -271,12 +270,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.base",
+                "file": "渲染/渲染流程图.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "渲染流程图 的出链列表"
             }
           },
           {
@@ -327,8 +326,12 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
-    "Unity/热更新/AssetBundle.md",
+    "渲染/渲染流程.md",
+    "渲染/渲染流程图.png",
+    "渲染/动态批处理.md",
+    "渲染/顶点动画纹理 Vertex Animation Texture.md",
     "未命名.base",
+    "Unity/热更新/AssetBundle.md",
     "Unity/Unity内存原理.md",
     "Unity/Unity内存优化.md",
     "Unity/UGUI.md",
@@ -351,10 +354,6 @@
     "Lua/16 编译、执行和错误.md",
     "C#/GC.SuppressFinalize.md",
     "C#/EventHandler.md",
-    "C#/C# GC.md",
-    "C#/C#.md",
-    "寻路算法/A星算法.md",
-    "渲染/渲染流程图.png",
     "渲染/GPU Instancing/Untitled 2.png",
     "渲染/GPU Instancing/Untitled 1.png",
     "渲染/GPU Instancing/Untitled.png",
