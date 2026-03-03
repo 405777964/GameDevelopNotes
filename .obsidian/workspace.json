@@ -39,12 +39,14 @@
             "id": "89fee9216e022720",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "渲染/静态批处理/静态批处理流程图.png"
+                "file": "Unity/热更新/AssetBundle.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "静态批处理流程图"
+              "icon": "lucide-file",
+              "title": "AssetBundle"
             }
           },
           {
@@ -270,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染/静态批处理/静态批处理流程图.png",
+                "file": "Unity/热更新/AssetBundle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "静态批处理流程图 的出链列表"
+              "title": "AssetBundle 的出链列表"
             }
           },
           {
@@ -326,12 +328,16 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
+    "Unity/热更新/HybridCLR.md",
+    "渲染/深度测试 Depth Testing.md",
+    "渲染/模板测试 Stencil Testing.md",
+    "渲染/动态批处理.md",
+    "渲染/静态批处理/静态批处理流程图.png",
     "渲染/点乘&叉乘.md",
     "Unity/Unity内存原理.md",
     "Unity/Unity内存优化.md",
     "Unity/协程 Coroutine.md",
     "Unity/代码编译 Mono IL2CPP.md",
-    "Unity/热更新/HybridCLR.md",
     "Lua/Lua与C的交互.md",
     "Lua/Lua虚拟机 （nil）.md",
     "Lua/Lua WIKI.md",
@@ -349,16 +355,12 @@
     "Unity/Assembly definitions（程序集定义）.md",
     "Unity/移动端优化.md",
     "Unity/纹理压缩.md",
-    "渲染/URP.md",
-    "渲染/顶点动画纹理 Vertex Animation Texture.md",
-    "渲染/动态批处理.md",
     "渲染/渲染流程图.png",
     "未命名.base",
     "渲染/GPU Instancing/Untitled 2.png",
     "渲染/GPU Instancing/Untitled 1.png",
     "渲染/GPU Instancing/Untitled.png",
     "渲染/静态批处理/静态批处理原理.png",
-    "渲染/静态批处理/静态批处理流程图.png",
     "渲染/动态批处理/动态批处理流程图.png",
     "Pasted image 20260227174002.png",
     "Pasted image 20260227164553.png",

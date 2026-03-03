@@ -9,6 +9,8 @@ AssetBundle 具有如下优点：
 - 自带版本更新内容，可以进行增量更新。
 - 内部包含了对 Object 的引用关系。
 
+官方建议使用LZ4
+
 
 https://zhuanlan.zhihu.com/p/1922333689280468099
 
