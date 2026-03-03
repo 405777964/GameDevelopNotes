@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/热更新/HybridCLR.md",
+                "file": "C#/C# GC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HybridCLR"
+              "title": "C# GC"
             }
           },
           {
@@ -272,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/热更新/HybridCLR.md",
+                "file": "C#/C# GC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "HybridCLR 的出链列表"
+              "title": "C# GC 的出链列表"
             }
           },
           {
@@ -328,6 +328,7 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
+    "Unity/热更新/HybridCLR.md",
     "Unity/热更新/AssetBundle.md",
     "Unity/Unity内存原理.md",
     "Unity/Unity内存优化.md",
@@ -355,7 +356,6 @@
     "Lua/Lua虚拟机 （nil）.md",
     "Lua/Lua Table.md",
     "Lua/Lua WIKI.md",
-    "Lua/Lua String.md",
     "渲染/GPU Instancing/Untitled 2.png",
     "渲染/GPU Instancing/Untitled 1.png",
     "渲染/GPU Instancing/Untitled.png",
