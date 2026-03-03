@@ -39,14 +39,12 @@
             "id": "89fee9216e022720",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Unity/Unity内存原理.md",
-                "mode": "source",
-                "source": false
+                "file": "渲染/静态批处理/静态批处理流程图.png"
               },
-              "icon": "lucide-file",
-              "title": "Unity内存原理"
+              "icon": "lucide-image",
+              "title": "静态批处理流程图"
             }
           },
           {
@@ -272,12 +270,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Unity内存原理.md",
+                "file": "渲染/静态批处理/静态批处理流程图.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Unity内存原理 的出链列表"
+              "title": "静态批处理流程图 的出链列表"
             }
           },
           {
@@ -328,8 +326,9 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
-    "Unity/Unity内存优化.md",
+    "渲染/点乘&叉乘.md",
     "Unity/Unity内存原理.md",
+    "Unity/Unity内存优化.md",
     "Unity/协程 Coroutine.md",
     "Unity/代码编译 Mono IL2CPP.md",
     "Unity/热更新/HybridCLR.md",
@@ -351,7 +350,6 @@
     "Unity/移动端优化.md",
     "Unity/纹理压缩.md",
     "渲染/URP.md",
-    "渲染/点乘&叉乘.md",
     "渲染/顶点动画纹理 Vertex Animation Texture.md",
     "渲染/动态批处理.md",
     "渲染/渲染流程图.png",
