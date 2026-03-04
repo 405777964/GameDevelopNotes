@@ -22,4 +22,4 @@ TypeTree
 
 AssetBundle.CreateFromFile + AssetBundle.Load
 通过直接加载文件变成AssetBundle的方式，再通过AssetBundle.Load获得资源
-好处是 不会把z'g
+好处是 不会把整个资源文件都加载到内存中，而是会先加载文件中的数据头，通过数据头中的数据识别各资源在文件中的偏移位置。
