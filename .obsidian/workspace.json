@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/热更新/AssetBundle.md",
+                "file": "Lua/Lua GC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AssetBundle"
+              "title": "Lua GC"
             }
           },
           {
@@ -272,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/热更新/AssetBundle.md",
+                "file": "Lua/Lua GC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "AssetBundle 的出链列表"
+              "title": "Lua GC 的出链列表"
             }
           },
           {
@@ -328,6 +328,7 @@
   },
   "active": "89fee9216e022720",
   "lastOpenFiles": [
+    "Unity/热更新/AssetBundle.md",
     "Unity/热更新/HybridCLR.md",
     "渲染/深度测试 Depth Testing.md",
     "渲染/模板测试 Stencil Testing.md",
@@ -348,7 +349,6 @@
     "Lua/Lua 闭包.md",
     "Lua/16 编译、执行和错误.md",
     "C#/C# GC.md",
-    "Unity/热更新/AssetBundle.md",
     "Unity/UGUI.md",
     "Unity/JobSystem.md",
     "Unity/DOTS.md",
