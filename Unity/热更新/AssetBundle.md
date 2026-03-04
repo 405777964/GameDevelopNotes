@@ -20,6 +20,8 @@ TypeTree
 资产类型越多，类型树越大，可以打AB的时候禁用它，让AB更小，让运行时内存更小。
 建议（通常保持开启会更好）
 
+FileRead + AssetBundle.CreateFromMemory + AssetB
+
 AssetBundle.CreateFromFile + AssetBundle.Load
 通过直接加载文件变成AssetBundle的方式，再通过AssetBundle.Load获得资源
-好处是 不会把整个资源文件都加载到内存中，而是会先加载文件中的数据头，通过数据头中的数据识别各资源在文件中的偏移位置。
+好处是 不会把整个资源文件都加载到内存中，而是会先加载文件中的数据头，通过数据头中的数据识别各资源在文件中的偏移位置。对应偏移量加载对应的资源位置加载到内存（按需加载）
