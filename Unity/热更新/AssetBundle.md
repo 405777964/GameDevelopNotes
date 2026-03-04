@@ -19,3 +19,6 @@ TypeTree
 如果Unity检测到这些资源的格式不匹配（资产改变了格式，在两个Unity版本间），Unity可以使用TypeTree一个叫做安全二进制读取(Safe Binary Read)的东西，它将查看这个类型树，并且无论如何都要尝试构造这个对象，但是存在性能成本，比流式加载更慢。
 资产类型越多，类型树越大，可以打AB的时候禁用它，让AB更小，让运行时内存更小。
 建议（通常保持开启会更好）
+
+AssetBundle.CreateFromFile + AssetBundle.Load
+通过直接加载文件变成AssetBundle的方式，再通过AssetBundle.Load
