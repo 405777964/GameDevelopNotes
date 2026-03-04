@@ -21,7 +21,8 @@ TypeTree
 建议（通常保持开启会更好）
 
 FileRead + AssetBundle.CreateFromMemory + AssetBundle.Load
-通过文件操作加载资源文件，再通过AssetBundle.CreateFromMemory的方式将字节数据转成AssetBundle格式
+通过文件操作加载资源文件，再通过AssetBundle.CreateFromMemory的方式将字节数据转成AssetBundle格式，最后通过AssetBundle.Load加载某个资源
+消耗了2倍的内存及1.3倍左右的算力，但是可以加入自定义功能，比如加解密操作
 
 AssetBundle.CreateFromFile + AssetBundle.Load
 通过直接加载文件变成AssetBundle的方式，再通过AssetBundle.Load获得资源
