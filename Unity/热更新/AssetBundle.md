@@ -21,4 +21,5 @@ TypeTree
 建议（通常保持开启会更好）
 
 AssetBundle.CreateFromFile + AssetBundle.Load
-通过直接加载文件变成AssetBundle的方式，再通过AssetBundle.Load
+通过直接加载文件变成AssetBundle的方式，再通过AssetBundle.Load获得资源
+好处是 不会把z'g
