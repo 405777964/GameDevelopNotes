@@ -20,7 +20,8 @@ TypeTree
 资产类型越多，类型树越大，可以打AB的时候禁用它，让AB更小，让运行时内存更小。
 建议（通常保持开启会更好）
 
-FileRead + AssetBundle.CreateFromMemory + AssetB
+FileRead + AssetBundle.CreateFromMemory + AssetBundle.Load
+通过文件操作加载资源文件，再通过AssetBundle.CreateFromMemory的方式将字节数据转成AssetBundle格式
 
 AssetBundle.CreateFromFile + AssetBundle.Load
 通过直接加载文件变成AssetBundle的方式，再通过AssetBundle.Load获得资源
