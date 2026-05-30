@@ -50,19 +50,6 @@
             }
           },
           {
-            "id": "51643372af246ff2",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名 2.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名 2"
-            }
-          },
-          {
             "id": "c04e256a1fb6e17e",
             "type": "leaf",
             "state": {
@@ -246,13 +233,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 368.5071258544922,
-    "collapsed": true
+    "width": 368.5071258544922
   },
   "right": {
     "id": "8fea21ba2188e4b3",
@@ -287,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 2.base",
+                "file": "Unity/Assembly definitions（程序集定义）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 2 的出链列表"
+              "title": "Assembly definitions（程序集定义） 的出链列表"
             }
           },
           {
@@ -341,8 +326,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "51643372af246ff2",
+  "active": "c04e256a1fb6e17e",
   "lastOpenFiles": [
+    "2026-05-30.md",
+    "未命名 4.base",
+    "未命名 3.base",
     "未命名 2.base",
     "未命名 1.base",
     "Lua/Lua GC.md",
@@ -370,7 +358,6 @@
     "Unity/UGUI.md",
     "Unity/JobSystem.md",
     "Unity/DOTS.md",
-    "Unity/Assembly definitions（程序集定义）.md",
     "渲染/渲染流程图.png",
     "未命名.base",
     "渲染/GPU Instancing/Untitled 2.png",
