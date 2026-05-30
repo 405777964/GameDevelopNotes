@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "0eae7be72675e416",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
+          },
+          {
             "id": "1125b99737c42988",
             "type": "leaf",
             "state": {
@@ -170,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,12 +284,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Assembly definitions（程序集定义）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Assembly definitions（程序集定义） 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -326,7 +337,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "c04e256a1fb6e17e",
+  "active": "0eae7be72675e416",
   "lastOpenFiles": [
     "2026-05-30.md",
     "未命名 4.base",
